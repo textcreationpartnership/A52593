@@ -1,0 +1,1131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the faith and order owned and practised in the Congregational Churches in England; agreed upon and consented unto by their elders and messengers. Licensed and entred according to order.</title>
+            <author>Congregational Churches in England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 62 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52593</idno>
+            <idno type="STC">Wing N1490</idno>
+            <idno type="STC">ESTC R222326</idno>
+            <idno type="EEBO-CITATION">99833509</idno>
+            <idno type="PROQUEST">99833509</idno>
+            <idno type="VID">37986</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37986)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1784:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the faith and order owned and practised in the Congregational Churches in England; agreed upon and consented unto by their elders and messengers. Licensed and entred according to order.</title>
+                  <author>Congregational Churches in England.</author>
+                  <author>Owen, John, 1616-1683.</author>
+                  <author>Nye, Philip, 1596?-1672.</author>
+               </titleStmt>
+               <extent>[4], 119, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nath. Ponder, at the Peacock in the Poultry,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drawn up by a committee appointed by the Assembly of ministers of Congregational churches by a committee headed by Philip Nye, to whom the work is often attributed.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational churches --  Catechisms --  Early works to 1800.</term>
+               <term>Congregational churches --  Doctrines --  Early works to 1800.</term>
+               <term>Congregational churches --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37986:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE FAITH and ORDER Owned and practiſed in the Congregational Churches IN ENGLAND; Agreed upon and conſented unto by their Elders and Meſſengers.</p>
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nath. Ponder,</hi> at the <hi>Peacock</hi> in the <hi>Poultry,</hi> 1688.</p>
+            <pb facs="tcp:37986:2" rendition="simple:additions"/>
+            <pb facs="tcp:37986:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration_of_faith">
+            <pb facs="tcp:37986:3"/>
+            <pb n="1" facs="tcp:37986:3"/>
+            <head>A DECLARATION OF THE FAITH and ORDER Owned and Practiſed in the <hi>Congregational Churches</hi> IN ENGLAND.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I</hi> Of the Holy Scripture.</head>
+               <div type="part">
+                  <p>ALthough the Light of Nature, and the Works of Creation and Providence, do ſo far manifeſt the Goodneſs, Wiſ<g ref="char:EOLhyphen"/>dom and Power of God, as to leave Men unexcuſable; yet are they not
+<pb n="2" facs="tcp:37986:4"/>ſufficient to give that knowledge of God and of his Will, which is neceſ<g ref="char:EOLhyphen"/>ſary unto Salvation: Therefore it plea<g ref="char:EOLhyphen"/>ſed the Lord at ſundry times, and in divers manners to reveal himſelf, and to declare that his Will unto his Church; and afterwards for the better preſerving and propagating of the Truth, and for the more ſure eſtabliſhment and comfort of the Church againſt the corruption of the Fleſh, and the malice of Satan and of the World, to commit the ſame whol<g ref="char:EOLhyphen"/>ly unto writing: which maketh the Holy Scripture to be moſt neceſſary; thoſe former ways of God's revealing his Will unto his People, being now ceaſed.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>Under the Name of Holy Scripture, or the Word of God written, are now contained all the Books of the Old and New Teſtament; which are theſe:</p>
+                  <div type="Old_Testament">
+                     <pb n="3" facs="tcp:37986:4"/>
+                     <head>Of the Old Teſtament.</head>
+                     <p>Geneſis, Exodus, Leviticus, Numbers, Deuteronomy, Joſhua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Eſther, Job, Pſalms, Pro<g ref="char:EOLhyphen"/>verbs, Eccleſiaſtes, The Song of Songs, Iſaiah, Jeremiah, Lamentati<g ref="char:EOLhyphen"/>ons, Ezekiel, Daniel, Hoſea, Joel, Amos, Obadiah, Jonah, Micah, Na<g ref="char:EOLhyphen"/>hum, Habakkuk, Zephaniah, Hag<g ref="char:EOLhyphen"/>gai, Zechariah, Malachi.</p>
+                  </div>
+                  <div type="New_Testament">
+                     <head>Of the New Teſtament.</head>
+                     <p>Matthew, Mark, Luke, John, The Acts of the Apoſtles, Paul's Epiſtle to the Romans, 1 Corinthians, 2 Corinthi<g ref="char:EOLhyphen"/>ans, Galatians, Epheſians, Philippi<g ref="char:EOLhyphen"/>ans, Coloſſians, 1 Theſſalonians, 2 Theſſalonians, 1 To Timothy, 2 To Timothy, To Titus, To Phile<g ref="char:EOLhyphen"/>mon,
+<pb n="4" facs="tcp:37986:5"/>The Epiſtle to the Hebrews, The Epiſtle of James, The firſt and ſecond Epiſtles of Peter, The firſt, ſecond and third Epiſtles of John, The Epiſtle of Jude, The Revelation.</p>
+                     <p>All which are given by the Inſpira<g ref="char:EOLhyphen"/>tion of God to be the Rule of Faith and Life.</p>
+                  </div>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>The Books commonly called Apocry<g ref="char:EOLhyphen"/>pha, not being of Divine Inſpiration, are no part of the Canon of the Scrip<g ref="char:EOLhyphen"/>ture; and therefore are of no authori<g ref="char:EOLhyphen"/>ty in the Church of God, nor to be any otherwiſe approved or made uſe of than other humane writings.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>The Authority of the Holy Scripture, for which it ought to be believed and obeyed, dependeth not upon the Teſti<g ref="char:EOLhyphen"/>mony
+<pb n="5" facs="tcp:37986:5"/>of any Man or Church; but wholly upon God (who is Truth it ſelf) the Author thereof; and therefore it is to be received, becauſe it is the Word of God.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>We may be moved and induced by the Teſtimony of the Church, to an high and reverent Eſteem of the Holy Scripture. And the heavenlineſs of the Matter, the efficacy of the Doctrine, the majeſty of the Style, the conſent of all the parts, the ſcope of the whole, (which is, to give all glory to God) the full diſcovery it makes of the onely way of Man's Salvation, the many other incomparable Excellencies, and the en<g ref="char:EOLhyphen"/>tire Perfection thereof, are Arguments whereby it doth abundantly evidence it ſelf to be the Word of God; Yet notwithſtanding, our full perſwaſion and aſſurance of the infallible Truth and Divine Authority thereof, is from
+<pb n="6" facs="tcp:37986:6"/>the inward work of the Holy Spirit, bearing witneſs by and with the Word in our Hearts.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>The whole Counſel of God concern<g ref="char:EOLhyphen"/>ing all things neceſſary for his own Glo<g ref="char:EOLhyphen"/>ry, Man's Salvation, Faith and Life, is either expreſly ſet down in Scripture; or by good and neceſſary Conſequence may be deduced from Scripture; unto which nothing at any time is to be ad<g ref="char:EOLhyphen"/>ded, whether by new Revelations of the Spirit, or Traditions of Men. Ne<g ref="char:EOLhyphen"/>vertheleſs we acknowledge the inward Illumination of the Spirit of God to be neceſſary for the ſaving Underſtanding of ſuch things as are revealed in the Word: And that there are ſome Cir<g ref="char:EOLhyphen"/>cumſtances concerning the Worſhip of God and Government of the Church, common to humane Actions and Socie<g ref="char:EOLhyphen"/>ties, which are to be ordered by the Light of Nature and Chriſtian Prudence,
+<pb n="7" facs="tcp:37986:6"/>according to the general Rules of the Word, which are always to be obſer<g ref="char:EOLhyphen"/>ved.</p>
+               </div>
+               <div n="17" type="part">
+                  <head>VII.</head>
+                  <p>All things in Scripture are not alike plain in themſelves, nor alike clear un<g ref="char:EOLhyphen"/>to all: yet thoſe things which are ne<g ref="char:EOLhyphen"/>ceſſary to be known, believed and ob<g ref="char:EOLhyphen"/>ſerved for Salvation, are ſo clearly pro<g ref="char:EOLhyphen"/>pounded and opened in ſome place of Scripture or other, that not onely the learned, but the unlearned, in a due Uſe of the ordinary means, may attain unto a ſufficient underſtanding of them.</p>
+               </div>
+               <div n="8" type="part">
+                  <head>VIII.</head>
+                  <p>The Old Teſtament in Hebrew (which was the Native Language of the Peo<g ref="char:EOLhyphen"/>ple of God of old) and the New Te<g ref="char:EOLhyphen"/>ſtament in Greek (which at the time of writing of it was moſt generally known to the Nations) being imme<g ref="char:EOLhyphen"/>diately
+<pb n="8" facs="tcp:37986:7"/>inſpired by God, and by his ſingular Care and Providence kept pure in all Ages, are therefore Authen<g ref="char:EOLhyphen"/>tical; ſo as in all Controverſies of Re<g ref="char:EOLhyphen"/>ligion the Church is finally to appeal unto them. But becauſe theſe Original Tongues are not known to all the Peo<g ref="char:EOLhyphen"/>ple of God, who have right unto and Intereſt in the Scriptures, and are com<g ref="char:EOLhyphen"/>manded in the fear of God to read and ſearch them; therefore they are to be tranſlated into the vulgar Language of every Nation unto which they come, that the Word of God dwelling plen<g ref="char:EOLhyphen"/>tifully in all, they may Worſhip him in an acceptable manner, and through pa<g ref="char:EOLhyphen"/>tience and comfort of the Scriptures may have hope.</p>
+               </div>
+               <div n="9" type="part">
+                  <head>IX.</head>
+                  <p>The infallible Rule of Interpretation of Scripture, is the Scripture it ſelf; And therefore when there is a queſtion about the true and full ſenſe of any
+<pb n="9" facs="tcp:37986:7"/>Scripture, (which is not manifold, but one) it muſt be ſearched and known by other places, that ſpeak more clearly.</p>
+               </div>
+               <div n="10" type="part">
+                  <head>X.</head>
+                  <p>The Supreme Judge by which all Controverſies of Religion are to be de<g ref="char:EOLhyphen"/>termined, and all Decrees of Counſels, Opinions of ancient Writers, Doctrines of Men and private Spirits, are to be examined, and in whoſe Sentence we are to reſt, can be no other, but the Holy Scripture delivered by the Spirit; into which Scripture ſo delivered, our Faith is finally reſolved.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of God and of the Holy Trinity.</head>
+               <div type="part">
+                  <p>THere is but one onely living and true God; who is infinite in Being and Perfection, a moſt pure Spi<g ref="char:EOLhyphen"/>rit,
+<pb n="10" facs="tcp:37986:8"/>inviſible, without Body, Parts, or Paſſions, immutable, immenſe, eternal, incomprehenſible, almighty, moſt wiſe, moſt holy, moſt free, moſt abſolute, working all things according to the Counſel of his own immutable and moſt righteous Will, for his own Glory, moſt loving, gracious, merciful, long-ſuffe<g ref="char:EOLhyphen"/>ring, abundant in goodneſs and truth, forgiving iniquity, tranſgreſſion and ſin, the rewarder of them that diligent<g ref="char:EOLhyphen"/>ly ſeek him; and withall, moſt juſt and terrible in his Judgments, hating all ſin, and who will by no means clear the guilty.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>God hath all Life, Glory, Goodneſs, Bleſſedneſs, in, and of himſelf; and is alone, in, and unto himſelf, All-ſuffici<g ref="char:EOLhyphen"/>ent, not ſtanding in need of any Crea<g ref="char:EOLhyphen"/>tures, which he hath made, nor deri<g ref="char:EOLhyphen"/>ving any glory from them, but onely manifeſting his own glory in, by, unto,
+<pb n="11" facs="tcp:37986:8"/>and upon them: He is the alone Foun<g ref="char:EOLhyphen"/>tain of all Being, of whom, through whom, and to whom are all things; and hath moſt Sovereign Dominion over them, to do by them, for them, or up<g ref="char:EOLhyphen"/>on them whatſoever himſelf pleaſeth: In his ſight all things are open and ma<g ref="char:EOLhyphen"/>nifeſt, his Knowledge is infinite, infal<g ref="char:EOLhyphen"/>lible, and independent upon the Crea<g ref="char:EOLhyphen"/>ture, ſo as nothing is to him contingent or uncertain: He is moſt Holy in all his Counſels, in all his Works, and in all his Commands. To him is due from Angels and Men, and every other Crea<g ref="char:EOLhyphen"/>ture, whatſoever Worſhip, Service or Obedience, as Creatures, they owe un<g ref="char:EOLhyphen"/>to the Creator, and whatever he is fur<g ref="char:EOLhyphen"/>ther pleaſed to require of them.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>In the Unity of the God-head there be three Perſons, of one Subſtance, Power and Eternity, God the Father,
+<pb n="12" facs="tcp:37986:9"/>God the Son, and God the Holy Ghoſt: The Father is of none, neither begot<g ref="char:EOLhyphen"/>ten, nor proceeding; The Son is eter<g ref="char:EOLhyphen"/>nally begotten of the Father; The Ho<g ref="char:EOLhyphen"/>ly Ghoſt eternally proceeding from the Father and the Son. Which Doctrine of the Trinity is the foundation of all our Communion with God, and com<g ref="char:EOLhyphen"/>fortable Dependence upon him.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> Of God's eternal Decree.</head>
+               <div type="part">
+                  <p>GOD from all eternity did by the moſt wiſe and holy Counſel of his own Will, freely and unchangeably ordain whatſoever comes to paſs: Yet ſo, as thereby neither is God the Author of Sin, nor is violence offered to the will of the Creatures, nor is the liberty or contingency of ſecond Cauſes taken away, but rather eſtabliſhed.</p>
+               </div>
+               <div n="2" type="part">
+                  <pb n="13" facs="tcp:37986:9"/>
+                  <head>II.</head>
+                  <p>Although God knows whatſoever may or can come to paſs upon all ſup<g ref="char:EOLhyphen"/>poſed Conditions, yet hath he not de<g ref="char:EOLhyphen"/>creed any thing, becauſe he foreſaw it as future, or, as that which would come to paſs upon ſuch Conditions.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>By the Decree of God for the mani<g ref="char:EOLhyphen"/>feſtation of his Glory, ſome Men and Angels are predeſtinated unto everlaſt<g ref="char:EOLhyphen"/>ing Life, and others fore-ordained to everlaſting Death.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>Theſe Angels and Men thus prede<g ref="char:EOLhyphen"/>ſtinated, and fore-ordained, are parti<g ref="char:EOLhyphen"/>cularly and unchangeably deſigned, and their number is ſo certain and definite,
+<pb n="14" facs="tcp:37986:10"/>that it cannot be either increaſed or di<g ref="char:EOLhyphen"/>miniſhed.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>Thoſe of Mankind that are prede<g ref="char:EOLhyphen"/>ſtinated unto Life, God, before the foundation of the World was laid, ac<g ref="char:EOLhyphen"/>cording to his eternal and immutable Purpoſe, and the ſecret counſel and good pleaſure of his Will, hath choſen in Chriſt unto everlaſting Glory, out of his meer free Grace and Love, with<g ref="char:EOLhyphen"/>out any fore-ſight of Faith or good Works, or Perſeverance in either of them, or any other thing in the Crea<g ref="char:EOLhyphen"/>ture, as Conditions or Cauſes moving him thereunto, and all to the praiſe of his glorious Grace.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>As God hath appointed the Elect unto Glory, ſo hath he by the eternal and moſt free purpoſe of his Will fore<g ref="char:EOLhyphen"/>ordained all the means thereunto<g ref="char:punc">▪</g>
+                     <pb n="15" facs="tcp:37986:10"/>Wherefore they who are elected, being fall'n in <hi>Adam,</hi> are redeemed by Chriſt, are effectually called unto Faith in Chriſt by his Spirit working in due ſeaſon, are juſtified, adopted, ſanctified, and kept by his Power, through Faith, unto Salvation. Neither are any other redeemed by Chriſt, or effectually cal<g ref="char:EOLhyphen"/>led, juſtified, adopted, ſanctified, and ſaved, but the Elect onely.</p>
+               </div>
+               <div n="7" type="part">
+                  <head>VII.</head>
+                  <p>The reſt of Mankind God was plea<g ref="char:EOLhyphen"/>ſed, according to the unſearchable Counſel of his own Will, whereby he extendeth or withholdeth Mercy as he pleaſeth, for the glory of his Sovereign Power over his Creatures, to paſs by and to ordain them to diſhonour and wrath for their Sin, to the praiſe of his glorious Juſtice.</p>
+               </div>
+               <div n="8" type="part">
+                  <pb n="16" facs="tcp:37986:11"/>
+                  <head>VIII.</head>
+                  <p>The Doctrine of this high Myſtery of Predeſtination, is to be handled with ſpecial Prudence and Care, that Men attending the will of God revealed in his Word, and yielding Obedience thereunto, may from the certainty of their effectual Vocation, be aſſured of their eternal Election. So ſhall this Doctrine afford matter of praiſe, reve<g ref="char:EOLhyphen"/>rence and admiration of God, and of Humility, Diligence and abundant Con<g ref="char:EOLhyphen"/>ſolation to all that ſincerely obey the Goſpel.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Of Creation.</hi>
+               </head>
+               <div type="part">
+                  <p>IT pleaſed God the Father, Son and Holy Ghoſt, for the manifeſtation of the glory of his eternal Power, Wiſdom
+<pb n="17" facs="tcp:37986:11"/>and Goodneſs, in the beginning, to create or make of nothing the World, and all things therein, whether viſible or inviſible, in the ſpace of ſix days, and all very good.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>After God had made all other Crea<g ref="char:EOLhyphen"/>tures, he created Man, Male and Female, with reaſonable and immortal Souls, endued with Knowledge, Righteouſneſs and true Holineſs, after his own Image, having the Law of God written in their Hearts, and power to fulfil it; and yet under a poſſibility of tranſgreſſing, being left to the liberty of their own Will, which was ſubject unto change. Beſides this Law written in their hearts, they received a command not to Eat of the Tree of the Knowledge of Good and Evil, which whilſt they kept, they were happy in their communion with God, and had dominion over the Crea<g ref="char:EOLhyphen"/>tures.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="18" facs="tcp:37986:12"/>
+               <head>CHAP. V. <hi>Of Providence.</hi>
+               </head>
+               <div type="part">
+                  <p>GOD the great Creator of all things, doth uphold, direct, diſpoſe, and govern all Creatures, actions, and things, from the greateſt even to the leaſt, by his moſt wiſe and holy Providence, ac<g ref="char:EOLhyphen"/>cording unto his infallible fore-know<g ref="char:EOLhyphen"/>ledge, and the free and immutable coun<g ref="char:EOLhyphen"/>ſel of his own Will, to the praiſe of the glory of his Wiſdom, Power, Juſtice, Goodneſs and Mercy.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>Although in relation to the fore-knowledge and decree of God, the firſt Cauſe, all things come to paſs immuta<g ref="char:EOLhyphen"/>bly, and infallibly; yet by the ſame Providence he ordereth them to fall out, according to the nature of ſecond
+<pb n="19" facs="tcp:37986:12"/>Cauſes, either neceſſarily, freely, or con<g ref="char:EOLhyphen"/>tingently.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>God in his ordinary Providence ma<g ref="char:EOLhyphen"/>keth uſe of Means, yet is free to work without, above, and againſt them at his pleaſure.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>The Almighty Power, unſearchable Wiſdom, and infinite Goodneſs of God, ſo far manifeſt themſelves in his Provi<g ref="char:EOLhyphen"/>dence, in that his determinate Counſel extendeth it ſelf even to the firſt Fall, and all other ſins of Angels and Men, (and that not by a bare Permiſſion) which alſo he moſt wiſely and power<g ref="char:EOLhyphen"/>fully boundeth, and otherwiſe ordereth and governeth in a manifold Diſpenſa<g ref="char:EOLhyphen"/>tion to his own moſt holy ends; yet ſo, as the ſinfulneſs thereof proceedeth on<g ref="char:EOLhyphen"/>ly from the Creature, and not from God, who being moſt holy and righteous,
+<pb n="20" facs="tcp:37986:13"/>neither is, nor can be the author or ap<g ref="char:EOLhyphen"/>prover of Sin.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>The moſt wiſe, righteous and graci<g ref="char:EOLhyphen"/>ous God doth oftentimes leave for a ſeaſon his own Children to manifold Temptations, and the corruption of their own Hearts, to chaſtiſe them for their former ſins, or to diſcover unto them the hidden ſtrength of Corruption, and deceitfulneſs of their Hearts, that they may be humbled; and to raiſe them to a more cloſe and conſtant dependence for their ſupport upon himſelf, and to make them more watchful againſt all future occaſions of ſin, and for ſundry other juſt and holy ends.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>As for thoſe wicked and ungodly Men, whom God, as a righteous Judge, for former ſins, doth blind and harden,
+<pb n="21" facs="tcp:37986:13"/>from them he not only withholdeth his Grace, whereby they might have been inlightned in their Underſtandings, and wrought upon in their Hearts; but ſometimes alſo withdraweth the Gifts which they had, and expoſeth them to ſuch Objects, as their Corruption makes occaſions of ſin; and withall, gives them over to their own Luſts, the Tem<g ref="char:EOLhyphen"/>ptations of the World, and the Power of Satan; whereby it comes to paſs that they harden themſelves, even un<g ref="char:EOLhyphen"/>der thoſe means which God uſeth for the ſoftning of others.</p>
+               </div>
+               <div n="7" type="part">
+                  <head>VII.</head>
+                  <p>As the Providence of God doth in general reach to all Creatures, ſo after a moſt ſpecial manner it taketh care of his Church, and diſpoſeth all things to the good thereof.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="22" facs="tcp:37986:14"/>
+               <head>
+                  <hi>CHAP. VI.</hi> Of the Fall of Man, of Sin, and of the Puniſhment thereof.</head>
+               <div type="part">
+                  <p>GOD having made a Covenant of Works and Life, thereupon, with our firſt Parents and all their Poſterity in them, they being ſeduced by the ſub<g ref="char:EOLhyphen"/>tilty and temptation of Satan, did wil<g ref="char:EOLhyphen"/>fully tranſgreſs the Law of their Creati<g ref="char:EOLhyphen"/>on, and break the Covenant in eating the forbidden Fruit.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>By this Sin they, and we in them, fell from original Righteouſneſs and Communion with God, and ſo became dead in ſin, and wholly defiled in all the Faculties and Parts of Soul and Body.</p>
+               </div>
+               <div n="3" type="part">
+                  <pb n="23" facs="tcp:37986:14"/>
+                  <head>III.</head>
+                  <p>They being the Root, and by Gods appointment ſtanding in the room and ſtead of all Mankind, the guilt of this Sin was imputed, and corrupted Nature conveyed to all their Poſterity deſcen<g ref="char:EOLhyphen"/>ding from them by ordinary Generation.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>From this original Corruption, where<g ref="char:EOLhyphen"/>by we are utterly indiſpoſed, diſabled and made oppoſite to all good, and wholly inclined to all evil, do proceed all actual Tranſgreſſions.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>This Corruption of Nature during this Life, doth remain in thoſe that are regenerated; and although it be through Chriſt pardoned and mortified, yet both it ſelf and all the motions thereof are truly and properly Sin.</p>
+               </div>
+               <div n="6" type="part">
+                  <pb n="24" facs="tcp:37986:15"/>
+                  <head>VI.</head>
+                  <p>Every ſin, both original and actual, being a Tranſgreſſion of the righteous Law of God, and contrary thereunto, doth in its own nature bring guilt up<g ref="char:EOLhyphen"/>on the ſinner, whereby he is bound over to the Wrath of God, and Curſe of the Law, and ſo made ſubject to Death, with all Miſeries ſpiritual, tem<g ref="char:EOLhyphen"/>poral and eternal.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> Of Gods Covenant with Man.</head>
+               <div type="part">
+                  <p>THe diſtance between God and the Creature is ſo great, that although reaſonable Creatures do owe obedience unto him as their Creator, yet they could never have attained the reward of Life, but by ſome voluntary condeſcenſion
+<pb n="25" facs="tcp:37986:15"/>on Gods part, which he hath been plea<g ref="char:EOLhyphen"/>ſed to expreſs by way of Covenant.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>The firſt Covenant made with Man, was Covenant of Works, wherein Life was promiſed to <hi>Adam,</hi> and in him to his Poſterity, upon condition of perfect and perſonal Obedience.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>Man by his Fall having made himſelf uncapable of Life by that Covenant, the Lord was pleaſed to make a ſecond, commonly called the Covenant of Grace; wherein he freely offereth unto ſinners Life and Salvation by Jeſus Chriſt, re<g ref="char:EOLhyphen"/>quiring of them Faith in him that they may be ſaved, and promiſing to give unto all thoſe that are ordained unto Life, his holy Spirit, to make them wil<g ref="char:EOLhyphen"/>ling and able to believe.</p>
+               </div>
+               <div n="4" type="part">
+                  <pb n="26" facs="tcp:37986:16"/>
+                  <head>IV.</head>
+                  <p>This Covenant of Grace is frequently ſet forth in the Scripture by the name of a Teſtament, in reference to the Death of Jeſus Chriſt the Teſtator, and to the everlaſting Inheritance, with all things belonging to it, therein bequeathed.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>Although this Covenant hath been differently and variouſly adminiſtred in reſpect of Ordinances and Inſtitutions in the time of the Law, and ſince the coming of Chriſt in the fleſh; yet for the ſubſtance and efficacy of it, to all its ſpiritual and ſaving ends, it is one and the ſame; upon the account of which various Diſpenſations, it is called the Old and New Teſtament.</p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="27" facs="tcp:37986:16"/>
+               <div type="part">
+                  <head>
+                     <hi>CHAP. VIII.</hi> Of Chriſt the Mediator.</head>
+                  <p>IT pleaſed God, in his eternal Pur<g ref="char:EOLhyphen"/>poſe, to chuſe and ordain the Lord Jeſus, his onely begotten Son, according to a Covenant made between them both, to be the Mediator between God and Man; the Prophet, Prieſt, and King, the Head and Saviour of his Church, the Heir of all things, and Judge of the World; unto whom he did from all eternity give a People to be his ſeed, and to be by him in time redeemed, called, juſtified, ſanctified, and glorified.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>The Son of God, the ſecond Perſon in the Trinity, being very and eternal God, of one Subſtance, and equal with the Father, did, when the fulneſs of
+<pb n="28" facs="tcp:37986:17"/>time was come, take upon him Mans Nature, with all the eſſential Properties and common Infirmities thereof, yet without ſin, being conceived by the Power of the Holy Ghoſt in the Womb of the Virgin <hi>Mary</hi> of her Subſtance: So that two whole perfect and diſtinct Natures, the Godhead and the Man<g ref="char:EOLhyphen"/>hood, were inſeparably joyned toge<g ref="char:EOLhyphen"/>ther in one Perſon, without Converſion, Compoſition, or Confuſion; which Per<g ref="char:EOLhyphen"/>ſon is very God and very Man, yet one Chriſt, the onely Mediator between God and Man.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>The Lord Jeſus in his Humane Na<g ref="char:EOLhyphen"/>ture, thus united to the Divine in the Perſon of the Son, was ſanctified and annointed with the holy Spirit above meaſure, having in him all the Trea<g ref="char:EOLhyphen"/>ſures of Wiſdom and Knowledge, in whom it pleaſed the Father, that all fulneſs ſhould dwell, to the end that
+<pb n="29" facs="tcp:37986:17"/>being holy, harmleſs, undefiled, and full of Grace and Truth, he might be through<g ref="char:EOLhyphen"/>ly furniſhed to execute the Office of a Mediator and Surety; which Office he took not unto himſelf, but was there<g ref="char:EOLhyphen"/>unto called by his Father, who alſo put all Power and Judgment into his hand, and gave him Commandment to execute the ſame.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>This Office the Lord Jeſus did moſt willingly undertake; which that he might diſcharge, he was made under the Law, and did perfectly fulfil it, and un<g ref="char:EOLhyphen"/>derwent the Puniſhment due to us, which we ſhould have borne and ſuffe<g ref="char:EOLhyphen"/>red, being made Sin and a Curſe for us, enduring moſt grievous Torments immediately from God in his Soul, and moſt painful Sufferings in his Body, was Crucified, and died, was buried, and remained under the Power of Death, yet ſaw no Corruption, on the Third
+<pb n="30" facs="tcp:37986:18"/>day he roſe from the Dead with the ſame Body in which he ſuffered, with which alſo he aſcended into Heaven, and there fitteth at the Right hand of his Father, making Interceſſion, and ſhall return to judge Men and Angels at the end of the World.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>The Lord Jeſus by his perfect Obe<g ref="char:EOLhyphen"/>dience and Sacrifice of himſelf, which he through the eternal Spirit once offered up unto God, hath fully ſatisfied the Ju<g ref="char:EOLhyphen"/>ſtice of God, and purchaſed not onely Reconciliation, but an everlaſting In<g ref="char:EOLhyphen"/>heritance in the Kingdom of Heaven, for all thoſe whom the Father hath given unto him.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>Although the Work of Redemption was not actually wrought by Chriſt, till after his Incarnation; yet the Vertue, Efficacy, and Benefits thereof were com<g ref="char:EOLhyphen"/>municated
+<pb n="31" facs="tcp:37986:18"/>to the Elect in all Ages ſuc<g ref="char:EOLhyphen"/>ceſſively from the beginning of the World, in and by thoſe Promiſes, Types and Sacrifices wherein he was revealed and ſignified to be the Seed of the Wo<g ref="char:EOLhyphen"/>man, which ſhould bruiſe the Serpent's head, and the Lamb ſlain from the be<g ref="char:EOLhyphen"/>ginning of the World, being yeſter<g ref="char:EOLhyphen"/>day and to day the ſame, and for ever.</p>
+               </div>
+               <div n="7" type="part">
+                  <head>VII.</head>
+                  <p>Chriſt in the Work of Mediation acteth according to both Natures, by each Nature doing that which is pro<g ref="char:EOLhyphen"/>per to it ſelf; yet by reaſon of the Unity of the Perſon, that which is pro<g ref="char:EOLhyphen"/>per to one Nature, is ſometimes in Scri<g ref="char:EOLhyphen"/>pture attributed to the Perſon denomi<g ref="char:EOLhyphen"/>nated by the other Nature.</p>
+               </div>
+               <div n="8" type="part">
+                  <head>VIII.</head>
+                  <p>To all thoſe for whom Chriſt hath purchaſed Redemption, he doth cer<g ref="char:EOLhyphen"/>tainly
+<pb n="32" facs="tcp:37986:19"/>and effectually apply and com<g ref="char:EOLhyphen"/>municate the ſame, making Interceſſion for them, and revealing unto them in and by the Word, the Myſteries of Sal<g ref="char:EOLhyphen"/>vation, effectually perſwading them by his Spirit to believe and obey, and go<g ref="char:EOLhyphen"/>verning their Hearts by his Word and Spirit, overcoming all their Enemies by his Almighty Power and Wiſdom, in ſuch manner and ways as are moſt con<g ref="char:EOLhyphen"/>ſonant to his wonderful and unſearch<g ref="char:EOLhyphen"/>able Diſpenſation.</p>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>CHAP. IX.</hi> Of Free Will.</head>
+               <div type="part">
+                  <p>GOD hath endued the Will of Man with that natural Liberty and Power of acting upon Choice, that it is neither forced, nor by any abſolute ne<g ref="char:EOLhyphen"/>ceſſity of Nature determined to do good or evil.</p>
+               </div>
+               <div n="2" type="part">
+                  <pb n="33" facs="tcp:37986:19"/>
+                  <head>II.</head>
+                  <p>Man in his ſtate of Innocency had freedom and power to will and to do that which was good and well-pleaſing to God; but yet mutably, ſo that he might fall from it.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>Man by his Fall into a ſtate of Sin, hath wholly loſt all ability of Will to any ſpiritual good accompanying Sal<g ref="char:EOLhyphen"/>vation; ſo as a natural Man being al<g ref="char:EOLhyphen"/>together averſe from that good, and dead in ſin, is not able by his own ſtrength to convert himſelf, or to pre<g ref="char:EOLhyphen"/>pare himſelf thereunto.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>When God converts a Sinner, and tranſlates him into the ſtate of Grace,
+<pb n="34" facs="tcp:37986:20"/>he freeth him from his natural bondage under ſin, and by his Grace alone in<g ref="char:EOLhyphen"/>ables him freely to will and to do that which is ſpiritually good; yet ſo, as that by reaſon of his remaining Cor<g ref="char:EOLhyphen"/>ruption, he doth not perfectly nor on<g ref="char:EOLhyphen"/>ly Will that which is good, but doth alſo Will that which is evil.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>The Will of Man is made perfectly and immutably free to good alone in the ſtate of Glory onely.</p>
+               </div>
+            </div>
+            <div n="10" type="chapter">
+               <head>
+                  <hi>CHAP. X.</hi> Of Effectual Calling.</head>
+               <div type="part">
+                  <p>ALL thoſe whom God hath prede<g ref="char:EOLhyphen"/>ſtinated unto Life, and thoſe only he is pleaſed in his appointed and ac<g ref="char:EOLhyphen"/>cepted time effectually to call by his
+<pb n="35" facs="tcp:37986:20"/>Word and Spirit, out of that ſtate of Sin and Death in which they are by Nature, to Grace and Salvation by Je<g ref="char:EOLhyphen"/>ſus Chriſt, inlightning their Minds ſpi<g ref="char:EOLhyphen"/>ritually and ſavingly to underſtand the things of God, taking away their heart of ſtone, and giving unto them an heart of fleſh, renewing their Wills, and by his Almighty Power determining them to that which is good, and effectually drawing them to Jeſus Chriſt; yet ſo, as they come moſt freely, being made willing by his Grace.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>This Effectual Call is of Gods free and ſpecial Grace alone, not from any thing at all foreſeen in Man, who is al<g ref="char:EOLhyphen"/>together paſſive therein, untill being quickned and renewed by the Holy Spirit he is thereby enabled to anſwer this Call, and to embrace the Grace of<g ref="char:EOLhyphen"/>fered and conveyed in it.</p>
+               </div>
+               <div n="3" type="part">
+                  <pb n="36" facs="tcp:37986:21"/>
+                  <head>III.</head>
+                  <p>Elect Infants dying in Infancy, are re<g ref="char:EOLhyphen"/>generated and ſaved by Chriſt, who worketh when, and where, and how he pleaſeth: ſo alſo are all other elect per<g ref="char:EOLhyphen"/>ſons who are uncapable of being out<g ref="char:EOLhyphen"/>wardly called by the Miniſtry of the Word.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>Others not elected, although they may be called by the Miniſtry of the Word, and may have ſome common ope<g ref="char:EOLhyphen"/>rations of the Spirit, yet not being effe<g ref="char:EOLhyphen"/>ctually drawn by the Father, they nei<g ref="char:EOLhyphen"/>ther do nor can come unto Chriſt, and therefore cannot be ſaved; much leſs can men not profeſſing the Chriſtian Re<g ref="char:EOLhyphen"/>ligion, be ſaved in any other way what<g ref="char:EOLhyphen"/>ſoever, be they never ſo diligent to frame their lives according to the Light of Nature, and the Law of that Religi<g ref="char:EOLhyphen"/>on
+<pb n="37" facs="tcp:37986:21"/>they do profeſs: And to aſſert and maintain that they may, is very perni<g ref="char:EOLhyphen"/>cious, and to be deteſted.</p>
+               </div>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI. <hi>Of Juſtification.</hi>
+               </head>
+               <div type="part">
+                  <p>THoſe whom God effectually call<g ref="char:EOLhyphen"/>eth, he alſo freely juſtifieth, not by infuſing righteouſneſs into them, but by pardoning their ſins, and by accoun<g ref="char:EOLhyphen"/>ting and accepting their perſons as righ<g ref="char:EOLhyphen"/>teous, not for any thing wrought in them, or done by them, but for Chriſts ſake alone; nor by imputing Faith it ſelf, the act of believing, or any other Evangelical obedience to them, as their righteouſneſs, but by imputing Chriſts active obedience unto the whole law<g ref="char:punc">▪</g> and paſſive Obedience in his death for their whole and ſole Righteouſneſs, they re<g ref="char:EOLhyphen"/>ceiving and reſting on him and his
+<pb n="38" facs="tcp:37986:22"/>Righteouſneſs by Faith; which Faith they have not of themſelves, it is the gift of God.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>Faith thus receiving and reſting on Chriſt, and his Righteouſneſs, is the alone Inſtrument of Juſtification; yet it is not alone in the Perſon juſtified, but is ever accompanied with all other ſa<g ref="char:EOLhyphen"/>ving Graces, and is no dead Faith, but worketh by Love.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>Chriſt by his Obedience and Death did fully diſcharge the Debt of all thoſe that are juſtified, and did by the Sacri<g ref="char:EOLhyphen"/>fice of himſelf, in the Blood of his Croſs, undergoing in their ſtead the pe<g ref="char:EOLhyphen"/>nalty due unto them, make a proper, real, and full Satisfaction to Gods Ju<g ref="char:EOLhyphen"/>ſtice in their behalf: Yet in as much as he was given by the Father for them, and his Obedience and Satisfaction ac<g ref="char:EOLhyphen"/>cepted
+<pb n="39" facs="tcp:37986:22"/>in their ſtead, and both freely, not for any thing in them, their Juſti<g ref="char:EOLhyphen"/>fication is only of Free Grace, that both the exact Juſtice and rich Grace of God might be glorified in the Juſtifi<g ref="char:EOLhyphen"/>cation of Sinners.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>God did from all eternity decree to juſtifie all the Elect, and Chriſt did in the fulneſs of time Dye for their Sins, and riſe again for their Juſtification: Nevertheleſs, they are not juſtified per<g ref="char:EOLhyphen"/>ſonally, until the Holy Spirit doth in due time actually apply Chriſt unto them.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>God doth continue to forgive the ſins of thoſe that are juſtified; and al<g ref="char:EOLhyphen"/>though they can never fall from the ſtate of Juſtification, yet they may by their Sins fall under Gods fatherly diſ<g ref="char:EOLhyphen"/>pleaſure:
+<pb n="40" facs="tcp:37986:23"/>and in that Condition they have not uſually the Light of his Coun<g ref="char:EOLhyphen"/>tenance reſtored unto them, until they humble themſelves, confeſs their Sins, beg Pardon, and renew their Faith and Repentance.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>The Juſtification of Believers under the Old Teſtament, was in all theſe re<g ref="char:EOLhyphen"/>ſpects one and the ſame with the Juſti<g ref="char:EOLhyphen"/>fication of Believers under the New Teſtament.</p>
+               </div>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII. <hi>Of Adoption.</hi>
+               </head>
+               <div type="part">
+                  <p>ALL thoſe that are juſtified, God vouchſafeth in and for his onely Son Jeſus Chriſt to make partakers of the Grace of Adoption, by which they are taken into the number, and enjoy
+<pb n="41" facs="tcp:37986:23"/>the Liberties and Priviledges of the Children of God, have his Name put upon them, receive the Spirit of Ado<g ref="char:EOLhyphen"/>ption, have Acceſs to the Throne of Grace with boldneſs, are enabled to cry Abba Father, are pitied, protected, pro<g ref="char:EOLhyphen"/>vided for, and chaſtened by him as by a Father, yet never caſt off, but ſealed to the day of Redemption, and inherit the Promiſes as Heirs of everlaſting Sal<g ref="char:EOLhyphen"/>vation.</p>
+               </div>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. <hi>Of Sanctification.</hi>
+               </head>
+               <div type="part">
+                  <p>THey that are united to Chriſt, ef<g ref="char:EOLhyphen"/>fectually called and regenerated, having a new Heart and a new Spirit created in them, through the vertue of Chriſt's Death and Reſurrection, are al<g ref="char:EOLhyphen"/>ſo further Sanctified really and perſo<g ref="char:EOLhyphen"/>nally through the ſame Vertue, by his
+<pb n="42" facs="tcp:37986:24"/>Word and Spirit dwelling in them; the dominion of the whole body of Sin is deſtroyed, and the ſeveral Luſts thereof are more and more weakned, and mor<g ref="char:EOLhyphen"/>tified, and they more and more quick<g ref="char:EOLhyphen"/>ned and ſtrengthned in all Saving Gra<g ref="char:EOLhyphen"/>ces, to the practice of all true Holineſs, without which no Man ſhall ſee the Lord.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>This Sanctification is throughout in the whole man, yet imperfect in this life, there abideth ſtill ſome remnants of cor<g ref="char:EOLhyphen"/>ruption in every part, whence ariſeth a continual and irreconcileable war, the fleſh luſting againſt the ſpirit, and the ſpirit againſt the fleſh.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>In which war, although the remain<g ref="char:EOLhyphen"/>ing corruption for a time may much pre<g ref="char:EOLhyphen"/>vail, yet through the continual ſupply of
+<pb n="43" facs="tcp:37986:24"/>ſtrength from the Sanctifying Spirit of Chriſt, the Regenerate part doth over<g ref="char:EOLhyphen"/>come, and ſo the Saints grow in Grace, perfecting Holineſs in the fear of God.</p>
+               </div>
+            </div>
+            <div n="14" type="chapter">
+               <head>
+                  <hi>CHAP. XIV.</hi> Of Saving Faith.</head>
+               <div type="part">
+                  <p>THE Grace of Faith, whereby the Elect are inabled to believe to the Saving of their Souls, is the Work of the Spirit of Chriſt in their Hearts, and is ordinarily wrought by the Mi<g ref="char:EOLhyphen"/>niſtry of the Word; by which alſo, and by the Adminiſtration of the Seals, Prayer, and other means, it is increaſed and ſtrengthned.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>By this Faith a Chriſtian believeth to be true whatſoever is revealed in the Word, for the Authority of God him<g ref="char:EOLhyphen"/>ſelf
+<pb n="44" facs="tcp:37986:25"/>ſpeaking therein, and acteth diffe<g ref="char:EOLhyphen"/>rently upon that which each particular Paſſage thereof containeth, yielding O<g ref="char:EOLhyphen"/>bedience to the Commands, trembling at the Threatnings, and embracing the Promiſes of God for this Life and that which is to come. But the principal Acts of Saving Faith are, accepting, re<g ref="char:EOLhyphen"/>ceiving, and reſting upon Chriſt alone, for Juſtification, Sanctification, and eter<g ref="char:EOLhyphen"/>nal Life, by virtue of the Covenant of Grace.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>This Faith, although it be different in degrees, and may be weak or ſtrong, yet it is in the leaſt degree of it diffe<g ref="char:EOLhyphen"/>rent in the kind or nature of it (as is all other Saving Grace) from the Faith and common Grace of temporary Be<g ref="char:EOLhyphen"/>lievers; and therefore, though it may be many times aſſailed and weaken<g ref="char:EOLhyphen"/>ed, yet it gets the Victory, growing up in many to the attainment of a full
+<pb n="45" facs="tcp:37986:25"/>Aſſurance through Chriſt, who is both the author and finiſher of our Faith.</p>
+               </div>
+            </div>
+            <div n="15" type="chapter">
+               <head>
+                  <hi>CHAP. XV.</hi> Of Repentance unto Life and Salvation.</head>
+               <div type="part">
+                  <p>SUch of the Elect as are Converted at riper Years, having ſometime li<g ref="char:EOLhyphen"/>ved in the ſtate of Nature, and therein ſerved divers Luſts and Pleaſures, God in their Effectual Calling giveth them Repentance unto Life.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>Whereas there is none that doth good, and ſinneth not, and the beſt of Men may through the power and de<g ref="char:EOLhyphen"/>ceitfulneſs of their Corruptions dwelling in them, with the prevalency of Temp<g ref="char:EOLhyphen"/>tation, fall into great Sins and Provoca<g ref="char:EOLhyphen"/>tions; God hath in the Covenant of
+<pb n="46" facs="tcp:37986:26"/>Grace mercifully provided, that Belie<g ref="char:EOLhyphen"/>vers ſo ſinning and falling, be renewed through Repentance unto Salvation.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>This Saving Repentance is an Evan<g ref="char:EOLhyphen"/>gelical Grace, whereby a Perſon being by the Holy Ghoſt made ſenſible of the manifold evils of his Sin, doth by Faith in Chriſt humble himſelf for it with godly Sorrow, Deteſtation of it, and ſelf-abhorrency, praying for Pardon and ſtrength of Grace, with a purpoſe and endeavour by ſupplies of the Spirit, to walk before God unto all well-pleaſing in all things.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>As Repentance is to be continued through the whole courſe of our Lives, upon the account of the body of Death, and the motions thereof; ſo it is every Mans Duty to repent of his particular known Sins particularly.</p>
+               </div>
+               <div n="5" type="part">
+                  <pb n="47" facs="tcp:37986:26"/>
+                  <head>V.</head>
+                  <p>Such is the Proviſion which God hath made through Chriſt in the Covenant of Grace, for the Preſervation of Belie<g ref="char:EOLhyphen"/>vers unto Salvation, that although there is no ſin ſo ſmall, but it deſerves Dam<g ref="char:EOLhyphen"/>nation; yet there is no ſin ſo great, that it ſhall bring Damnation on them who truly Repent; which makes the conſtant Preaching of Repentance ne<g ref="char:EOLhyphen"/>ceſſary.</p>
+               </div>
+            </div>
+            <div n="16" type="chapter">
+               <head>
+                  <hi>CHAP. XVI.</hi> Of Good Works.</head>
+               <div type="part">
+                  <p>GOod Works are only ſuch as God hath commanded in his Holy Word, and not ſuch as without the war<g ref="char:EOLhyphen"/>rant thereof are deviſed by Men out of blind Zeal, or upon any pretence of good Intentions.</p>
+               </div>
+               <div n="2" type="part">
+                  <pb n="48" facs="tcp:37986:27"/>
+                  <head>II.</head>
+                  <p>Theſe Good Works done in Obedi<g ref="char:EOLhyphen"/>ence to Gods Commandments, are the Fruits and Evidences of a true and live<g ref="char:EOLhyphen"/>ly Faith, and by them Believers mani<g ref="char:EOLhyphen"/>feſt their Thankfulneſs, ſtrengthen their Aſſurance, edifie their Brethren, adorn the Profeſſion of the Goſpel, ſtop the mouths of the Adverſaries, and glorifie God, whoſe workmanſhip they are, Created in Chriſt Jeſus thereunto, that having their Fruit unto Holineſs, they may have the End eternal Life.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>Their Ability to do Good Works is not at all of themſelves, but wholly from the Spirit of Chriſt: And that they may be enabled thereunto, beſides the Graces they have already received, there is required an actual Influence of the
+<pb n="49" facs="tcp:37986:27"/>ſame Holy Spirit to work in them to will and to do, of his good Pleaſure; yet are they not hereupon to grow ne<g ref="char:EOLhyphen"/>gligent, as if they were not bound to perform any Duty, unleſs upon a ſpe<g ref="char:EOLhyphen"/>cial Motion of the Spirit, but they ought to be diligent in ſtirring up the Grace of God that is in them.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>They who in their Obedience at<g ref="char:EOLhyphen"/>tain to the greateſt height which is poſ<g ref="char:EOLhyphen"/>ſible in this Life, are ſo far from being able to ſupererogate, and to do more than God requires<g ref="char:punc">▪</g> as that they fall ſhort of much, which in Duty they are bound to do.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>We cannot by our beſt Works merit pardon of Sin, or eternal Life at the hand of God, by reaſon of the great
+<pb n="50" facs="tcp:37986:28"/>diſproportion that is between them, and the Glory to come; and the infi<g ref="char:EOLhyphen"/>nite diſtance that is between us and God, whom by them we can neither profit, nor ſatisfie for the debt of our former Sins; but when we have done all we can, we have done but our Du<g ref="char:EOLhyphen"/>ty, and are unprofitable Servants: and becauſe as they are good, they proceed from his Spirit, and as they are wrought by us, they are defiled and mixed with ſo much Weakneſs and Imperfection, that they cannot endure the ſeverity of Gods Judgment.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>Yet notwithſtanding, the Perſons of Believers being accepted through Chriſt, their good Works alſo are accepted in him, not as though they were in this Life wholly unblameable and unre<g ref="char:EOLhyphen"/>proveable in Gods ſight, but that he looking upon them in his Son is plea<g ref="char:EOLhyphen"/>ſed
+<pb n="51" facs="tcp:37986:28"/>to accept and reward that which is ſincere, although accompanied with many Weakneſſes and Imperfections.</p>
+               </div>
+               <div n="7" type="part">
+                  <head>VII.</head>
+                  <p>Works done by unregenerate Men, although for the matter of them they may be things which God commands, and of good Uſe both to themſelves and to others: yet becauſe they pro<g ref="char:EOLhyphen"/>ceed not from a Heart purified by Faith, nor are done in a right manner, according to the Word, nor to a right end, the glory of God; they are therefore ſinful, and cannot pleaſe God, nor make a Man meet to receive Grace from God; and yet their neg<g ref="char:EOLhyphen"/>lect of them is more ſinful and diſplea<g ref="char:EOLhyphen"/>ſing unto God.</p>
+               </div>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="52" facs="tcp:37986:29"/>
+               <head>
+                  <hi>CHAP. XVII.</hi> Of the Perſeverance of the Saints.</head>
+               <div type="part">
+                  <p>THey whom God hath accepted in his beloved Son, effectually cal<g ref="char:EOLhyphen"/>led and ſanctified by his Spirit, can nei<g ref="char:EOLhyphen"/>ther totally nor finally fall away from the ſtate of Grace, but ſhall certainly perſevere therein to the end, and be eternally Saved.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>This Perſeverance of the Saints de<g ref="char:EOLhyphen"/>pends not upon their own free Will, but upon the immutability of the De<g ref="char:EOLhyphen"/>cree of Election, from the free and un<g ref="char:EOLhyphen"/>changeable Love of God the Father, upon the Efficacy of the Merit and In<g ref="char:EOLhyphen"/>terceſſion of Jeſus Chriſt, and Union with him, the Oath of God, the abi<g ref="char:EOLhyphen"/>ding of his Spirit, and of the Seed of God within them, and the nature of
+<pb n="53" facs="tcp:37986:29"/>the Covenant of Grace, from all which ariſeth alſo the certainty and infallibili<g ref="char:EOLhyphen"/>ty thereof.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>And though they may through the temptation of Satan, and of the world, the prevalency of corruption remaining in them, and the neglect of the means of their preſervation, fall into grievous ſins, and for a time continue therein, whereby they incur Gods diſpleaſure, and grieve his holy Spirit, come to have their graces and comforts impaired, have their hearts hardned, and their conſcien<g ref="char:EOLhyphen"/>ces wounded, hurt and ſcandalize others, and bring temporal judgments upon themſelves; yet they are and ſhall be kept by the power of God through faith unto ſalvation.</p>
+               </div>
+            </div>
+            <div n="18" type="chapter">
+               <pb n="54" facs="tcp:37986:30"/>
+               <head>
+                  <hi>CHAP. XVIII.</hi> Of the Aſſurance of Grace and Salvation.</head>
+               <div type="part">
+                  <p>ALthough Temporary Believers, and other unregenerate Men may vain<g ref="char:EOLhyphen"/>ly deceive themſelves with falſe Hopes, and carnal Preſumptions of being in the Favour of God, and ſtate of Sal<g ref="char:EOLhyphen"/>vation, which Hope of theirs ſhall pe<g ref="char:EOLhyphen"/>riſh; yet ſuch as truly Believe in the Lord Jeſus, and Love him in ſinceri<g ref="char:EOLhyphen"/>ty, endeavouring to walk in all good Conſcience before him, may in this Life be certainly aſſured that they are in the ſtate of Grace, and may rejoyce in the Hope of the Glory of God, which Hope ſhall never make them aſhamed.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>This certainty is not a bare conje<g ref="char:EOLhyphen"/>ctural and probable Perſwaſion, groun<g ref="char:EOLhyphen"/>ded
+<pb n="55" facs="tcp:37986:30"/>upon a fallible Hope, but an in<g ref="char:EOLhyphen"/>fallible Aſſurance of Faith, founded on the Blood and Righteouſneſs of Chriſt, revealed in the Goſpel, and alſo upon the inward evidence of thoſe Graces unto which Promiſes are made, and on the immediate witneſs of the Spirit, teſtifying our Adoption, and, as a Fruit thereof, leaving the Heart more hum<g ref="char:EOLhyphen"/>ble and holy.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>This infallible Aſſurance doth not ſo belong to the Eſſence of Faith, but that a true Believer may wait long, and conflict with many Difficulties be<g ref="char:EOLhyphen"/>fore he be partaker of it; yet being inabled by the Spirit to know the things which are freely given him of God, he may without extraordinary Revelation in the right uſe of ordinary means attain thereunto: And therefore it is the Duty of every one to give all diligence to make his Calling and Ele<g ref="char:EOLhyphen"/>ction
+<pb n="56" facs="tcp:37986:31"/>ſure, that thereby his Heart may be inlarged in Peace and Joy in the Holy Ghoſt, in Love and Thankfulneſs to God, and in Strength and Cheerful<g ref="char:EOLhyphen"/>neſs in the Duties of Obedience, the proper Fruits of this Aſſurance; ſo far is it from inclining Men to looſneſs.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>True Believers may have the Aſſu<g ref="char:EOLhyphen"/>rance of their Salvation divers ways ſhaken, diminiſhed and intermitted, as by negligence in preſerving of it, by falling into ſome ſpecial Sin, which woundeth the Conſcience, and grie<g ref="char:EOLhyphen"/>veth the Spirit, by ſome ſudden or ve<g ref="char:EOLhyphen"/>hement Temptation, by God's with<g ref="char:EOLhyphen"/>drawing the Light of his Countenance, ſuffering even ſuch as fear him to walk in Darkneſs, and to have no Light; yet are they neither utterly deſtitute of that Seed of God, and Life of Faith, that Love of Chriſt and the Brethren, that
+<pb n="57" facs="tcp:37986:31"/>ſincerity of Heart and Conſcience of Duty, out of which by the Operation of the Spirit this Aſſurance may in due time be revived, and by the which in the mean time they are ſupported from utter deſpair.</p>
+               </div>
+            </div>
+            <div n="19" type="chapter">
+               <head>
+                  <hi>CHAP. XIX.</hi> Of the Law of God.</head>
+               <div type="part">
+                  <p>GOD gave to <hi>Adam</hi> a Law of Uni<g ref="char:EOLhyphen"/>verſal Obedience written in his Heart, and a particular Precept of not eating the Fruit of the Tree of Know<g ref="char:EOLhyphen"/>ledge of Good and Evil, as a Cove<g ref="char:EOLhyphen"/>nant of Works, by which he bound him and all his Poſterity to perſonal, entire, exact, and perpetual Obedience, promiſed Life upon the fulfilling, and threatned Death upon the breach of it, and indued him with Power and Abi<g ref="char:EOLhyphen"/>lity to keep it.</p>
+               </div>
+               <div n="2" type="part">
+                  <pb n="58" facs="tcp:37986:32"/>
+                  <head>II.</head>
+                  <p>This Law ſo written in the Heart, continued to be a perfect Rule of Righ<g ref="char:EOLhyphen"/>teouſneſs after the Fall of Man, and was delivered by God upon Mount <hi>Sinai</hi> in Ten Commandments, and written in two Tables; the four firſt Com<g ref="char:EOLhyphen"/>mandments containing our Duty to<g ref="char:EOLhyphen"/>wards God, and the other ſix our Du<g ref="char:EOLhyphen"/>ty to Man.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>Beſide this Law commonly called Moral, God was pleaſed to give to the People of <hi>Iſrael</hi> Ceremonial Laws, con<g ref="char:EOLhyphen"/>taining ſeveral Typical Ordinances, partly of Worſhip, prefiguring Chriſt, his Graces, Actions, Sufferings and Be<g ref="char:EOLhyphen"/>nefits, and partly holding forth divers Inſtructions of Moral Duties: All which Ceremonial Laws being appointed on<g ref="char:EOLhyphen"/>ly to the time of Reformation, are by
+<pb n="59" facs="tcp:37986:32"/>Jeſus Chriſt the true Meſſiah and only Law-giver, who was furniſhed with Power from the Father for that end, abrogated and taken away.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>To them alſo he gave ſundry Judi<g ref="char:EOLhyphen"/>cial Laws, which expired together with the ſtate of that People, not ob<g ref="char:EOLhyphen"/>liging any now by virtue of that Inſti<g ref="char:EOLhyphen"/>tution, their general Equity only be<g ref="char:EOLhyphen"/>ing ſtill of Moral Uſe.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>The Moral Law doth for ever bind all, as well juſtified Perſons as others, to the Obedience thereof; and that not only in regard of the Matter con<g ref="char:EOLhyphen"/>tained in it, but alſo in reſpect of the Authority of God the Creator, who gave it: neither doth Chriſt in the Goſ<g ref="char:EOLhyphen"/>pel any way diſſolve, but much ſtreng<g ref="char:EOLhyphen"/>then this Obligation.</p>
+               </div>
+               <div n="6" type="part">
+                  <pb n="60" facs="tcp:37986:33"/>
+                  <head>VI.</head>
+                  <p>Although true Believers be not un<g ref="char:EOLhyphen"/>der the Law, as a Covenant of Works, to be thereby juſtified or condemned; yet it is of great Uſe to them as well as to others, in that, as a Rule of Life, informing them of the Will of God, and their Duty, it directs and binds them to walk accordingly, diſcover<g ref="char:EOLhyphen"/>ing alſo the ſinful Pollutions of their Nature, Hearts and Lives, ſo as exami<g ref="char:EOLhyphen"/>ning themſelves thereby, they may come to farther Conviction of Humiliation for, and hatred againſt Sin, together with a clearer ſight of the need they have of Chriſt, and the Perfection of his Obedience. It is likewiſe of uſe to the Regenerate, to reſtrain their Cor<g ref="char:EOLhyphen"/>ruptions, in that it forbids Sin, and the threatnings of it ſerve to ſhew what even their Sins deſerve, and what Affli<g ref="char:EOLhyphen"/>ctions in this Life they may expect for
+<pb n="61" facs="tcp:37986:33"/>them, although freed from the Curſe thereof threatned in the Law. The Pro<g ref="char:EOLhyphen"/>miſes of it in like manner ſhew them God's Approbation of Obedience, and what Bleſſings they may expect upon the Performance thereof, although not as due to them by the Law, as a Cove<g ref="char:EOLhyphen"/>nant of Works; ſo as a Mans doing Good, and refraining from Evil, be<g ref="char:EOLhyphen"/>cauſe the Law encourageth to the one, and deterreth from the other, is no Evidence of his being under the Law, and not under Grace.</p>
+               </div>
+               <div n="7" type="part">
+                  <head>VII.</head>
+                  <p>Neither are the forementioned Uſes of the Law contrary to the Grace of the Goſpel; but do ſweetly comply with it, the Spirit of Chriſt ſubduing and enabling the Will of Man to do that freely and cheerfully, which the Will of God revealed in the Law re<g ref="char:EOLhyphen"/>quired to be done.</p>
+               </div>
+            </div>
+            <div n="20" type="chapter">
+               <pb n="62" facs="tcp:37986:34"/>
+               <head>
+                  <hi>CHAP. XX.</hi> Of the Goſpel, and of the Extent of the Grace thereof.</head>
+               <div type="part">
+                  <p>THE Covenant of Works being broken by Sin, and made un<g ref="char:EOLhyphen"/>profitable unto Life, God was pleaſed to give unto the Elect the Promiſe of Chriſt, The Seed of the Woman, as the means of Calling them, and beget<g ref="char:EOLhyphen"/>ting in them Faith and Repentance: In this Promiſe, the Goſpel, as to the ſubſtance of it, was revealed, and was therein Effectual for the Converſion and Salvation of Sinners.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>This Promiſe of Chriſt, and Salvati<g ref="char:EOLhyphen"/>on by him, is revealed only in and by the Word of God; neither do the Works of Creation or Providence, with
+<pb n="63" facs="tcp:37986:34"/>the Light of Nature, make diſcovery of Chriſt, or of Grace by him, ſo much as in a general or obſcure way; much leſs that Men deſtitute of the Revelati<g ref="char:EOLhyphen"/>on of him by the Promiſe or Goſpel, ſhould be enabled thereby to attain Saving Faith or Repentance.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>The Revelation of the Goſpel unto Sinners made in divers times, and by ſundry parts, with the addition of Pro<g ref="char:EOLhyphen"/>miſes and Precepts for the Obedience required therein, as to the Nations and Perſons to whom it is granted, is meer<g ref="char:EOLhyphen"/>ly of the Sovereign Will and good Plea<g ref="char:EOLhyphen"/>ſure of God, not being annexed by virtue of any Promiſe to the due Im<g ref="char:EOLhyphen"/>provement of Mens natural Abilities, by virtue of common Light received without it, which none ever did make or can ſo do: And therefore in all Ages the Preaching of the Goſpel hath
+<pb n="64" facs="tcp:37986:35"/>been granted unto Perſons and Nati<g ref="char:EOLhyphen"/>ons, as to the extent or ſtraitning of it, in great variety, according to the counſel of the Will of God.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>Although the Goſpel be the only outward means of revealing Chriſt and Saving Grace, and is as ſuch abun<g ref="char:EOLhyphen"/>dantly ſufficient thereunto; yet that Men who are dead in Treſpaſſes, may be born again, quickned or rege<g ref="char:EOLhyphen"/>nerated, there is moreover neceſſary an effectual, irreſiſtable Work of the Holy Ghoſt upon the whole Soul, for the producing in them a new Spiritual Life, without which no other means are ſufficient for their Converſion unto God.</p>
+               </div>
+            </div>
+            <div n="21" type="chapter">
+               <pb n="65" facs="tcp:37986:35"/>
+               <head>
+                  <hi>CHAP. XXI.</hi> Of Chriſtian Liberty, and Liberty of Conſcience.</head>
+               <div type="part">
+                  <p>THE Liberty which Chriſt hath purchaſed for Believers under the Goſpel, conſiſts in their freedom from the guilt of Sin, the condemning wrath of God, the rigor and curſe of the Law, and in their being delivered from this preſent evil World, bondage to Satan, and dominion of Sin, from the evil of Afflictions, the fear and ſting of Death, the victory of the Grave, and ever<g ref="char:EOLhyphen"/>laſting Damnation; as alſo in their free acceſs to God, and their yielding Obe<g ref="char:EOLhyphen"/>dience unto him, not out of ſlaviſh fear, but a Child-like love and willing mind: All which were common alſo to Believers under the Law, for the Subſtance of them; but under the New Teſtament the liberty of Chriſtians is
+<pb n="66" facs="tcp:37986:36"/>further enlarged in their freedom from the yoak of the Ceremonial Law, the whole Legal Adminiſtration of the Co<g ref="char:EOLhyphen"/>venant of Grace, to which the <hi>Jewiſh</hi> Church was ſubjected, and in greater boldneſs of acceſs to the Throne of Grace, and in fuller Communications of the free Spirit of God, than Belie<g ref="char:EOLhyphen"/>vers under the Law did ordinarily par<g ref="char:EOLhyphen"/>take of.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>God alone is Lord of the Conſci<g ref="char:EOLhyphen"/>ence, and hath left it free from the Do<g ref="char:EOLhyphen"/>ctrines and Commandments of Men, which are in any thing contrary to his Word, or not contained in it; ſo that to believe ſuch Doctrines, or to obey ſuch Commands out of Conſcience, is to betray true Liberty of Conſcience; and the requiring of an Implicit Faith, and an abſolute and blind Obedience, is to deſtroy Liberty of Conſcience, and Reaſon alſo.</p>
+               </div>
+               <div n="3" type="part">
+                  <pb n="67" facs="tcp:37986:36"/>
+                  <head>III.</head>
+                  <p>They, who upon pretence of Chri<g ref="char:EOLhyphen"/>ſtian Liberty do practice any Sin, or cheriſh any Luſt, as they do thereby pervert the main deſign of the Grace of the Goſpel to their own Deſtructi<g ref="char:EOLhyphen"/>on; ſo they wholly deſtroy the end of Chriſtian Liberty, which is, that be<g ref="char:EOLhyphen"/>ing delivered out of the Hands of our Enemies, we might ſerve the Lord without fear, in Holineſs and Righte<g ref="char:EOLhyphen"/>ouſneſs before him all the days of our Life.</p>
+               </div>
+            </div>
+            <div n="22" type="chapter">
+               <head>
+                  <hi>CHAP. XXII.</hi> Of Religious Worſhip, and the Sabbath Day.</head>
+               <div type="part">
+                  <p>THE Light of Nature ſheweth that there is a God, who hath Lordſhip and Sovereignty over all, is
+<pb n="68" facs="tcp:37986:37"/>Juſt, Good, and doth good unto all, and is therefore to be feared, loved, praiſed, called upon, truſted in, and ſerved with all the Heart, and all the Soul, and with all the Might: but the acceptable way of Worſhipping the True God is inſtituted by himſelf, and ſo limited by his own revealed Will, that he may not be Worſhipped accor<g ref="char:EOLhyphen"/>ding to the Imaginations and Devices of Men, or the Suggeſtions of Satan, under any viſible Repreſentations, or any other way not preſcribed in the Holy Scripture.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>Religious Worſhip is to be given to God the Father, Son, and Holy Ghoſt, and to him alone; not to An<g ref="char:EOLhyphen"/>gels, Saints, or any other Creatures; and ſince the Fall, not without a Me<g ref="char:EOLhyphen"/>diator, nor in the Mediation of any other but of Chriſt alone.</p>
+               </div>
+               <div n="3" type="part">
+                  <pb n="69" facs="tcp:37986:37"/>
+                  <head>III.</head>
+                  <p>Prayer with Thankſgiving, being one ſpecial part of natural Worſhip, is by God required of all Men; but that it may be accepted, it is to be made in the Name of the Son by the help of his Spirit, according to his Will, with Underſtanding, Reverence, Humility, Fervency, Faith, Love, and Perſeverance; and when with others in a known Tongue.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>Prayer is to be made for things Law<g ref="char:EOLhyphen"/>ful, and for all ſorts of Men living, or that ſhall live hereafter, but not for the dead, nor for thoſe of whom it may be known that they have ſinned the Sin unto death.</p>
+               </div>
+               <div n="5" type="part">
+                  <pb n="70" facs="tcp:37986:38"/>
+                  <head>V.</head>
+                  <p>The reading of the Scriptures, Prea<g ref="char:EOLhyphen"/>ching, and hearing the Word of God, ſinging of Pſalms, as alſo the Admini<g ref="char:EOLhyphen"/>ſtration of Baptiſm and the Lord's Sup<g ref="char:EOLhyphen"/>per, are all parts of Religious Wor<g ref="char:EOLhyphen"/>ſhip of God, to be performed in Obe<g ref="char:EOLhyphen"/>dience unto God with Underſtanding, Faith, Reverence, and Godly Fear: Solemn Humiliations, with Faſtings and Thankſgiving upon ſpecial Occaſions, are in their ſeveral times and ſeaſons to be uſed in a Holy and Religious manner.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>Neither Prayer nor any other part of Religious Worſhip, is now under the Goſpel either tied unto, or made more acceptable by any place, in which it is performed, or towards which it is directed; but God is to be Worſhip<g ref="char:EOLhyphen"/>ped
+<pb n="71" facs="tcp:37986:38"/>every where in Spirit and Truth, as in private Families daily, and in ſe<g ref="char:EOLhyphen"/>cret each one by himſelf, ſo more ſo<g ref="char:EOLhyphen"/>lemnly in the publick Aſſemblies, which are not careleſly nor wilfully to be neglected, or forſaken, when God by his Word or Providence calleth there<g ref="char:EOLhyphen"/>unto.</p>
+               </div>
+               <div n="7" type="part">
+                  <head>VII.</head>
+                  <p>As it is of the Law of Nature, that in general a proportion of time by God's Appointment be ſet apart for the Worſhip of God; ſo by his Word in a poſitive, moral, and perpetual Com<g ref="char:EOLhyphen"/>mandment, binding all Men in all Ages, he hath particularly appointed one Day in ſeven for a Sabbath to be kept Holy unto him, which from the begin<g ref="char:EOLhyphen"/>ning of the World to the Reſurrection of Chriſt, was the laſt Day of the Week, and from the Reſurrection of Chriſt was changed into the firſt Day of the Week, which in Scripture is
+<pb n="72" facs="tcp:37986:39"/>called the Lord's Day, and is to be continued to the end of the World as the Chriſtian Sabbath, the Obſervation of the laſt Day of the Week being abo<g ref="char:EOLhyphen"/>liſhed.</p>
+               </div>
+               <div n="8" type="part">
+                  <head>VIII.</head>
+                  <p>This Sabbath is then kept Holy unto the Lord, when Men after a due pre<g ref="char:EOLhyphen"/>paring of their Hearts, and ordering their common Affairs before hand, do not only obſerve an holy Reſt all the Day from their own Works, Words, and Thoughts about their worldly Im<g ref="char:EOLhyphen"/>ployments and Recreations, but alſo are taken up the whole time in the pub<g ref="char:EOLhyphen"/>lick and private Exerciſes of his Wor<g ref="char:EOLhyphen"/>ſhip, and in the Duties of Neceſſity and Mercy.</p>
+               </div>
+            </div>
+            <div n="23" type="chapter">
+               <pb n="73" facs="tcp:37986:39"/>
+               <head>
+                  <hi>CHAP. XXIII.</hi> Of Lawful Oaths and Vows.</head>
+               <div type="part">
+                  <p>A Lawful Oath is part of Religious Worſhip, wherein the Perſon ſwearing in Truth, Righteouſneſs and Judgment, ſolemnly calleth God to witneſs what he aſſerteth or promiſeth, and to judge him according to the truth or falſhood of what he ſweareth.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>The Name of God only is that by which Men ought to ſwear, and there<g ref="char:EOLhyphen"/>in it is to be uſed with all holy Fear and Reverence: Therefore to ſwear vainly, or raſhly, by that glorious or dreadful Name, or to ſwear at all by any other thing, is ſinful and to be ab<g ref="char:EOLhyphen"/>horred; yet as in matters of weight and moment an Oath is warranted by
+<pb n="74" facs="tcp:37986:40"/>the Word of God under the New Te<g ref="char:EOLhyphen"/>ſtament, as well as under the Old; ſo a lawful Oath, being impoſed by law<g ref="char:EOLhyphen"/>ful Authority in ſuch matters, ought to be taken.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>Whoſoever taketh an Oath warran<g ref="char:EOLhyphen"/>ted by the Word of God, ought duly to conſider the weightineſs of ſo ſolemn an Act, and therein to avouch nothing but what he is fully perſwaded is the Truth, neither may any Man bind himſelf by Oath to any thing, but what is good and juſt, and what he belie<g ref="char:EOLhyphen"/>veth ſo to be, and what he is able and reſolved to perform. Yet it is a Sin to refuſe an Oath touching any thing that is good and juſt, being lawfully impoſed by Authority.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>An Oath is to be taken in the plain and common Senſe of the Words, with<g ref="char:EOLhyphen"/>out
+<pb n="75" facs="tcp:37986:40"/>Equivocation or mental Reſerva<g ref="char:EOLhyphen"/>tion: It cannot oblige to ſin, but in any thing not ſinful, being taken it binds to Performance, although to a Mans own hurt; nor is it to be vio<g ref="char:EOLhyphen"/>lated, although made to Hereticks or Infidels.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>A Vow, which is not to be made to any Creature, but God alone, is of the like Nature with a promiſſory Oath, and ought to be made with the like religious Care, and to be perfor<g ref="char:EOLhyphen"/>med with the like Faithfulneſs.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>Popiſh Monaſtical Vows of perpetu<g ref="char:EOLhyphen"/>al ſingle Life, profeſſed Poverty, and regular Obedience, are ſo far from be<g ref="char:EOLhyphen"/>ing degrees of higher Perfection, that they are ſuperſtitious and ſinful Snares, in which no Chriſtian may intangle himſelf.</p>
+               </div>
+            </div>
+            <div n="24" type="chapter">
+               <pb n="76" facs="tcp:37986:41"/>
+               <head>
+                  <hi>CHAP. XXIV.</hi> Of the Civil Magiſtrate.</head>
+               <div type="part">
+                  <p>GOD the ſupreme Lord and King of all the World, hath ordained Civil Magiſtrates to be under him, over the People for his own glory and the publick good; and to this end hath armed them with the Power of the Sword, for the defence and incourage<g ref="char:EOLhyphen"/>ment of them that do good, and for the puniſhment of evil doers.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>It is lawful for Chriſtians to accept and execute the Office of a Magiſtrate, when called thereunto: in the ma<g ref="char:EOLhyphen"/>nagement whereof, as they ought ſpe<g ref="char:EOLhyphen"/>cially to maintain Juſtice and Peace, according to the wholſome Laws of each Common-wealth; ſo for that end
+<pb n="77" facs="tcp:37986:41"/>they may lawfully now under the New Teſtament wage War upon juſt and ne<g ref="char:EOLhyphen"/>ceſſary occaſion.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>Although the Magiſtrate is bound to incourage, promote, and protect the Profeſſor and Profeſſion of the Goſ<g ref="char:EOLhyphen"/>pel, and to manage and order Civil Adminiſtrations in a due Subſerviency to the Intereſt of Chriſt in the World, and to that end to take care that Men of corrupt Minds and Converſations do not licentiouſly publiſh and di<g ref="char:EOLhyphen"/>vulge Blaſphemy and Errors in their own Nature, ſubverting the Faith, and inevitably deſtroying the Souls of them that receive them: Yet in ſuch diffe<g ref="char:EOLhyphen"/>rences about the Doctrines of the Goſ<g ref="char:EOLhyphen"/>pel, or ways of the Worſhip of God, as may befall Men exerciſing a good Conſcience, manifeſting it in their Con<g ref="char:EOLhyphen"/>verſation, and holding the Foundati<g ref="char:EOLhyphen"/>on, not diſturbing others in their ways
+<pb n="78" facs="tcp:37986:42"/>or Worſhip that differ from them; there is no warrant for the Magiſtrate under the Goſpel to abridge them of their Liberty.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>It is the Duty of People to pray for Magiſtrates, to honour their Perſons, to pay them Tribute and other Dues, to obey their lawful Commands, and to be ſubject to their Authority for Conſcience ſake. Infidelity, or diffe<g ref="char:EOLhyphen"/>rence in Religion, doth not make void the Magiſtrates juſt and legal Authori<g ref="char:EOLhyphen"/>ty, nor free the People from their Obedience to him; from which Ec<g ref="char:EOLhyphen"/>cleſiaſtical Perſons are not exempted, much leſs hath the <hi>Pope</hi> any Power or Juriſdiction over them in their Domi<g ref="char:EOLhyphen"/>nions, or over any of their People, and leaſt of all to deprive them of their Dominions or Lives, if he ſhall judge them to be Hereticks, or upon any other Pretence whatſoever.</p>
+               </div>
+            </div>
+            <div n="25" type="chapter">
+               <pb n="79" facs="tcp:37986:42"/>
+               <head>CHAP. XXV. <hi>Of Marriage.</hi>
+               </head>
+               <div type="part">
+                  <p>MArriage is to be between one Man and one Woman: neither is it lawful for any Man to have more than one Wife, nor for any Woman to have more than one Husband at the ſame time.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>Marriage was ordained for the mu<g ref="char:EOLhyphen"/>tual help of Husband and Wife, for the increaſe of Mankind with a legiti<g ref="char:EOLhyphen"/>mate Iſſue, and of the Church with an holy Seed, and for preventing of Un<g ref="char:EOLhyphen"/>cleanneſs.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>It is lawful for all ſorts of People to marry, who are able with Judg<g ref="char:EOLhyphen"/>ment to give their Conſent. Yet it is
+<pb n="80" facs="tcp:37986:43"/>the Duty of Chriſtians to marry in the Lord, and therefore ſuch as profeſs the true Reformed Religion, ſhould not marry with Infidels, Papiſts, or other Idolaters: neither ſhould ſuch as are godly, be unequally yoaked by mar<g ref="char:EOLhyphen"/>rying with ſuch as are wicked in their Life, or maintain damnable Hereſie.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>Marriage ought not to be within the degrees of Conſanguinity or Affinity forbidden in the Word; nor can ſuch Inceſtuous Marriages ever be made lawful by any Law of Man, or con<g ref="char:EOLhyphen"/>ſent of Parties, ſo as thoſe Perſons may live together as Man and Wife.</p>
+               </div>
+            </div>
+            <div n="26" type="chapter">
+               <pb n="81" facs="tcp:37986:43"/>
+               <head>
+                  <hi>CHAP. XXVI.</hi> Of the Church.</head>
+               <div type="part">
+                  <p>THE Catholick or Univerſal Church, which is Inviſible, con<g ref="char:EOLhyphen"/>ſiſts of the whole number of the Elect, that have been, are, or ſhall be ga<g ref="char:EOLhyphen"/>thered into one under Chriſt, the Head thereof, and is the Spouſe, the Body, the Fulneſs of him that filleth all in all.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>The whole Body of Men through<g ref="char:EOLhyphen"/>out the World, profeſſing the Faith of the Goſpel and Obedience unto God by Chriſt according unto it, not de<g ref="char:EOLhyphen"/>ſtroying their own Profeſſion by any Errors everting the Foundation, or unholineſs of Converſation, are, and may be called the viſible Catholick Church of Chriſt, although as ſuch it
+<pb n="82" facs="tcp:37986:44"/>is not intruſted with the Adminiſtra<g ref="char:EOLhyphen"/>tion of any Ordinances, or have any Offices to rule or govern in, or over the whole Body.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>The pureſt Churches under Heaven are ſubject both to Mixture and Error, and ſome have ſo degenerated as to become no Churches of Chriſt, but Synagogues of Satan: Nevertheleſs Chriſt always hath had, and ever ſhall have a viſible Kingdom in this World, to the end thereof, of ſuch as Believe in him, and make Profeſſion of his Name.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>There is no other Head of the Church but the Lord Jeſus Chriſt; nor can the <hi>Pope</hi> of <hi>Rome</hi> in any ſenſe be Head thereof; but it is that Anti<g ref="char:EOLhyphen"/>chriſt, that Man of Sin, and Son of Perdition, that exalteth himſelf in the
+<pb n="83" facs="tcp:37986:44"/>Church againſt Chriſt, and all that is called God, whom the Lord ſhall de<g ref="char:EOLhyphen"/>ſtroy with the brightneſs of his Coming.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>As the Lord in his Care and Love towards his Church, hath in his infi<g ref="char:EOLhyphen"/>nite Wiſe Providence exerciſed it with great variety in all Ages, for the good of them that love him, and his own Glory: ſo according to his Promiſe, we expect that in the latter Days, An<g ref="char:EOLhyphen"/>tichriſt being deſtroyed, the <hi>Jews</hi> cal<g ref="char:EOLhyphen"/>led, and the Adverſaries of the King<g ref="char:EOLhyphen"/>dom of his dear Son broken, the Church<g ref="char:EOLhyphen"/>es of Chriſt being inlarged and edified through a free and plentiful Commu<g ref="char:EOLhyphen"/>nication of Light and Grace, ſhall en<g ref="char:EOLhyphen"/>joy in this World a more quiet, peace<g ref="char:EOLhyphen"/>able and glorious Condition than they have enjoyed.</p>
+               </div>
+            </div>
+            <div n="27" type="chapter">
+               <pb n="84" facs="tcp:37986:45"/>
+               <head>
+                  <hi>CHAP. XXVII.</hi> Of the Communion of Saints.</head>
+               <div type="part">
+                  <p>ALL Saints that are united to Jeſus Chriſt their Head, by his Spirit and Faith, although they are not made thereby one Perſon with him, have Fellowſhip in his Graces, Sufferings, Death, Reſurrection and Glory: and being united to one another in Love, they have Communion in each others Gifts and Graces, and are obliged to the performance of ſuch Duties, pub<g ref="char:EOLhyphen"/>lick and private, as do conduce to their mutual good, both in the inward and outward Man.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>All Saints are bound to maintain an holy Fellowſhip and Communion in the Worſhip of God, and in perform<g ref="char:EOLhyphen"/>ing ſuch other Spiritual Services as tend
+<pb n="85" facs="tcp:37986:45"/>to their mutual Edification; as alſo in Relieving each other in outward things, according to their ſeveral Abilities and Neceſſities: which Communion, though eſpecially to be exerciſed by them in the Relations wherein they ſtand, whe<g ref="char:EOLhyphen"/>ther in Families or Churches, yet as God offereth opportunity, is to be ex<g ref="char:EOLhyphen"/>tended unto all thoſe who in every Place call upon the Name of the Lord Jeſus.</p>
+               </div>
+            </div>
+            <div n="28" type="chapter">
+               <head>
+                  <hi>CHAP. XXVIII.</hi> Of the Sacraments.</head>
+               <div type="part">
+                  <p>SAcraments are holy Signs and Seals of the Covenant of Grace, imme<g ref="char:EOLhyphen"/>diately inſtituted by Chriſt, to re<g ref="char:EOLhyphen"/>preſent him and his Benefits, and to confirm our Intereſt in him, and ſo<g ref="char:EOLhyphen"/>lemnly to engage us to the Service of God in Chriſt, according to his Word.</p>
+               </div>
+               <div n="2" type="part">
+                  <pb n="86" facs="tcp:37986:46"/>
+                  <head>II.</head>
+                  <p>There is in every Sacrament a ſpiri<g ref="char:EOLhyphen"/>tual Relation, or ſacramental Union be<g ref="char:EOLhyphen"/>tween the ſign and the thing ſignified; whence it comes to paſs that the Names and Effects of the one are attributed to the other.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>The Grace which is exhibited In or by the Sacraments rightly uſed, is not conferred by any Power in them, nei<g ref="char:EOLhyphen"/>ther doth the Efficacy of a Sacrament depend upon the Piety or Intention of him that doth Adminiſter it, but upon the Work of the Spirit, and the Word of Inſtitution, which contains, together with a Precept authorizing the Uſe thereof, a Promiſe of Benefit to wor<g ref="char:EOLhyphen"/>thy Receivers.</p>
+               </div>
+               <div n="4" type="part">
+                  <pb n="87" facs="tcp:37986:46"/>
+                  <head>IV.</head>
+                  <p>There be only two Sacranents or<g ref="char:EOLhyphen"/>dained by Chriſt our Lord in the Goſ<g ref="char:EOLhyphen"/>pel, that is to ſay, Baptiſm and the Lord's Supper; neither of which may be diſpenſed by any but by a Miniſter of the Word lawfully called.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>The Sacraments of the Old Teſta<g ref="char:EOLhyphen"/>ment, in regard of the ſpiritual things thereby ſignified and exhibited, were for ſubſtance the ſame with thoſe of the New.</p>
+               </div>
+            </div>
+            <div n="29" type="chapter">
+               <head>CHAP. XXIX. <hi>Of Baptiſm.</hi>
+               </head>
+               <div type="part">
+                  <p>BAptiſm is a Sacrament of the New Teſtament, ordained by Jeſus Chriſt to be unto the Party baptized a ſign and
+<pb n="88" facs="tcp:37986:47"/>ſeal of the Covenant of Grace, of his ingraffing into Chriſt, of Regenerati<g ref="char:EOLhyphen"/>on, of Remiſſion of Sins, and of his giving up unto God through Jeſus Chriſt to walk in newneſs of Life; which Ordinance is by Chriſt's own appointment to be continued in his Church until the end of the World.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>The outward Element to be uſed in this Ordinance, is Water, wherewith the Party is to be baptized in the Name of the Father, and of the Son, and of the Holy Ghoſt, by a Miniſter of the Goſpel lawfully called.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>Dipping of the Perſon into the Wa<g ref="char:EOLhyphen"/>ter is not neceſſary, but Baptiſm is rightly adminiſtred by pouring or ſprinkling Water upon the Perſon.</p>
+               </div>
+               <div n="4" type="part">
+                  <pb n="89" facs="tcp:37986:47"/>
+                  <head>IV.</head>
+                  <p>Not only thoſe who do actually pro<g ref="char:EOLhyphen"/>feſs Faith in, and Obedience unto Chriſt, but alſo the Infants of one or both believing Parents are to be bap<g ref="char:EOLhyphen"/>tized, and thoſe only.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>Although it be a great Sin to con<g ref="char:EOLhyphen"/>temn or neglect this Ordinance, yet Grace and Salvation are not ſo inſepa<g ref="char:EOLhyphen"/>rably annexed unto it, as that no Per<g ref="char:EOLhyphen"/>ſon can be regenerated or ſaved with<g ref="char:EOLhyphen"/>out it; or that all that are baptized, are undoubtedly regenerated.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>The Efficacy of Baptiſm is not tyed to that moment of time wherein it is adminiſtred, yet notwithſtanding, by
+<pb n="90" facs="tcp:37986:48"/>the right Uſe of this Ordinance, the Grace promiſed is not only offered, but really exhibited and conferred by the Holy Ghoſt to ſuch (whether of Age or Infants) as that Grace belongeth un<g ref="char:EOLhyphen"/>to, according to the counſel of God's own Will in his appointed time.</p>
+               </div>
+               <div n="7" type="part">
+                  <head>VII.</head>
+                  <p>Baptiſm is but once to be admini<g ref="char:EOLhyphen"/>ſtred to any Perſon.</p>
+               </div>
+            </div>
+            <div n="30" type="chapter">
+               <head>
+                  <hi>CHAP. XXX.</hi> Of the Lord's Supper.</head>
+               <div type="part">
+                  <p>OUR Lord Jeſus in the Night wherein he was betrayed, inſti<g ref="char:EOLhyphen"/>tuted the Sacrament of his Body and Blood, called the Lord's Supper, to be obſerved in his Churches unto the end of the World, for the perpetual Re<g ref="char:EOLhyphen"/>membrance,
+<pb n="91" facs="tcp:37986:48"/>and ſhewing forth of the Sacrifice of himſelf in his Death, the ſealing of all Benefits thereof unto true Believers, their Spiritual Nouriſhment, and growth in him, their further In<g ref="char:EOLhyphen"/>gagement in and to all Duties which they owe unto him, and to be a Bond and Pledge of their Communion with him, and with each other.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>In this Sacrament Chriſt is not offered up to his Father, nor any real Sacri<g ref="char:EOLhyphen"/>fice made at all for Remiſſion of Sin of the quick or dead, but only a Memo<g ref="char:EOLhyphen"/>rial of that one offering up of himſelf by himſelf upon the Croſs once for all, and a Spiritual Oblation of all poſſible Praiſe unto God for the ſame; ſo that the Popiſh Sacrifice of the Maſs (as they call it) is moſt abominable, in<g ref="char:EOLhyphen"/>jurious to Chriſt's own only Sacrifice, the alone Propitiation for all the Sins of the Elect.</p>
+               </div>
+               <div n="3" type="part">
+                  <pb n="92" facs="tcp:37986:49"/>
+                  <head>III.</head>
+                  <p>The Lord Jeſus hath in this Ordi<g ref="char:EOLhyphen"/>nance appointed his Miniſters to pray and bleſs the Elements of Bread and Wine, and thereby to ſet them apart from a common to an holy Uſe, and to take and break the Break, to take the Cup, and (they Communicating alſo themſelves) to give both to the Communicants, but to none who are not then preſent in the Congregation.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>Private Maſſes, or receiving the Sa<g ref="char:EOLhyphen"/>crament by a Prieſt, or any other alone, as likewiſe the denial of the Cup to the People, worſhipping the Ele<g ref="char:EOLhyphen"/>ments, the lifting them up, or carry<g ref="char:EOLhyphen"/>ing them about for Adoration, and the reſerving them for any preten<g ref="char:EOLhyphen"/>ded religious Uſe, are all contrary to
+<pb n="93" facs="tcp:37986:49"/>the nature of this Sacrament, and to the Inſtitution of Chriſt.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>The outward Elements in this Sacra<g ref="char:EOLhyphen"/>ment duely ſet apart to the Uſes or<g ref="char:EOLhyphen"/>dained by Chriſt, have ſuch Relation to him Crucified, as that truely, yet Sacramentally only, they are ſometimes called by the name of the things they repreſent, to wit, the Body and Blood of Chriſt; albeit in Subſtance and Na<g ref="char:EOLhyphen"/>ture they ſtill remain truly and only Bread and Wine as they were before.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>That Doctrine which maintains a Change of the Subſtance of Bread and Wine into the Subſtance of Chriſt's Bo<g ref="char:EOLhyphen"/>dy and Blood (commonly called Tran<g ref="char:EOLhyphen"/>ſubſtantiation) by Conſecration of a Prieſt, or by any other way, is repug<g ref="char:EOLhyphen"/>nant
+<pb n="94" facs="tcp:37986:50"/>not to Scripture alone, but even to common Senſe and Reaſon, over<g ref="char:EOLhyphen"/>throweth the Nature of the Sacrament, and hath been, and is the cauſe of ma<g ref="char:EOLhyphen"/>nifold Superſtitions, yea, of groſs Ido<g ref="char:EOLhyphen"/>latries.</p>
+               </div>
+               <div n="7" type="part">
+                  <head>VII.</head>
+                  <p>Worthy Receivers outwardly par<g ref="char:EOLhyphen"/>taking of the viſible Elements in this Sacrament, do then alſo inwardly by Faith, really and indeed, yet not car<g ref="char:EOLhyphen"/>nally and corporally, but ſpiritually, receive and feed upon Chriſt Crucifi<g ref="char:EOLhyphen"/>ed, and all benefits of his Death; the Body and Blood of Chriſt being then not corporally or carnally in, with, or under the Bread or Wine; yet as real<g ref="char:EOLhyphen"/>ly, but ſpiritually preſent to the Faith of Believers in that Ordinance, as the Elements themſelves are to their out<g ref="char:EOLhyphen"/>ward Senſes.</p>
+               </div>
+               <div n="8" type="part">
+                  <pb n="95" facs="tcp:37986:50"/>
+                  <head>VIII.</head>
+                  <p>All ignorant and ungodly Perſons, as they are unfit to enjoy Communion with Chriſt, ſo are they unworthy of the Lord's Table, and cannot without great Sin againſt him, whilſt they re<g ref="char:EOLhyphen"/>main ſuch, partake of theſe holy My<g ref="char:EOLhyphen"/>ſteries, or be admitted thereunto; yea, whoſoever ſhall Receive unwor<g ref="char:EOLhyphen"/>thily, are guilty of the Body and Blood of the Lord, eating and drinking Judg<g ref="char:EOLhyphen"/>ment to themſelves.</p>
+               </div>
+            </div>
+            <div n="31" type="chapter">
+               <head>
+                  <hi>CHAP. XXXI.</hi> Of the State of Man after Death, and of the Reſurrection of the Dead.</head>
+               <div type="part">
+                  <p>THE Bodies of Men after Death return to Duſt, and ſee Cor<g ref="char:EOLhyphen"/>ruption, but their Souls (which nei<g ref="char:EOLhyphen"/>ther
+<pb n="96" facs="tcp:37986:51"/>dye nor ſleep) having an immor<g ref="char:EOLhyphen"/>tal Subſiſtence, immediately return to God who gave them, the Souls of the Righteous being then made perfect in Holineſs, are received into the higheſt Heavens, where they behold the Face of God in Light and Glory, waiting for the full Redemption of their Bo<g ref="char:EOLhyphen"/>dies: And the Souls of the Wicked are caſt into Hell, where they remain in Torment and utter Darkneſs, reſer<g ref="char:EOLhyphen"/>ved to the Judgment of the Great Day: Beſides theſe two Places for Souls ſepa<g ref="char:EOLhyphen"/>rated from their Bodies, the Scripture acknowledgeth none.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>At the Laſt Day ſuch as are found alive ſhall not dye, but be changed, and all the dead ſhall be raiſed up with the ſelf-ſame Bodies, and none other, although with different Quali<g ref="char:EOLhyphen"/>ties,
+<pb n="97" facs="tcp:37986:51"/>which ſhall be united again to their Souls for ever.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>The Bodies of the Unjuſt ſhall by the Power of Chriſt be raiſed to diſho<g ref="char:EOLhyphen"/>nour; the Bodies of the Juſt by his Spirit unto honour, and be made con<g ref="char:EOLhyphen"/>formable to his own glorious Body.</p>
+               </div>
+            </div>
+            <div n="32" type="chapter">
+               <head>
+                  <hi>CHAP. XXXII.</hi> Of the Laſt Judgment.</head>
+               <div type="part">
+                  <p>GOD hath appointed a Day where<g ref="char:EOLhyphen"/>in he will Judge the World in Righteouſneſs by Jeſus Chriſt, to whom all Power and Judgment is given of the Father; in which Day not only the Apoſtate Angels ſhall be judged, but likewiſe all Perſons that have li<g ref="char:EOLhyphen"/>ved upon Earth, ſhall appear before the
+<pb n="98" facs="tcp:37986:52"/>Tribunal of Chriſt, to give an account of their Thoughts, Words and Deeds, and to receive according to what they have done in the Body, whether good or evil.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>The end of God's appointing this Day, is for the Manifeſtation of the Glory of his Mercy in the eternal Sal<g ref="char:EOLhyphen"/>vation of the Elect, and of his Juſtice in the Damnation of the Reprobate, who are Wicked and Diſobedient: For then ſhall the Righteous go into everlaſting Life, and receive that ful<g ref="char:EOLhyphen"/>neſs of Joy and Glory, with everlaſt<g ref="char:EOLhyphen"/>ing Reward in the preſence of the Lord; but the Wicked who know not God, and obey not the Goſpel of Je<g ref="char:EOLhyphen"/>ſus Chriſt, ſhall be caſt into eternal Torments, and be puniſhed with ever<g ref="char:EOLhyphen"/>laſting Deſtruction from the preſence of the Lord, and from the glory of his Power.</p>
+               </div>
+               <div n="3" type="part">
+                  <pb n="99" facs="tcp:37986:52"/>
+                  <head>III.</head>
+                  <p>As Chriſt would have us to be cer<g ref="char:EOLhyphen"/>tainly perſwaded that there ſhall be a Judgment, both to deterr all Men from Sin, and for the greater Conſolation of the Godly in their Adverſity; ſo will he have that Day unknown to Men, that they may ſhake off all Carnal Se<g ref="char:EOLhyphen"/>curity, and be always watchful, be<g ref="char:EOLhyphen"/>cauſe they know not at what Hour the Lord will come, and may be ever pre<g ref="char:EOLhyphen"/>pared to ſay, Come Lord Jeſus, come quickly. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:37986:53"/>
+            <pb n="101" facs="tcp:37986:53"/>
+            <head>OF THE INSTITUTION OF CHURCHES, And the ORDER Appointed in them by JESUS CHRIST.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>BY the Appointment of the Father all Power for the Calling, In<g ref="char:EOLhyphen"/>ſtitution, Order, or Government of the Church, is inveſted in a Supreme and Sovereign manner in the Lord Jeſus Chriſt, as King and Head thereof.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="102" facs="tcp:37986:54"/>
+               <head>II.</head>
+               <p>In the Execution of this Power wherewith he is ſo intruſted, the Lord Jeſus calleth out of the World unto Communion with himſelf, thoſe that are given unto him by his Father, that they may walk before him in all the ways of Obedience, which he preſcri<g ref="char:EOLhyphen"/>beth to them in his Word.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>Thoſe thus called (through the Mi<g ref="char:EOLhyphen"/>niſtry of the Word by his Spirit) he commandeth to walk together in parti<g ref="char:EOLhyphen"/>cular Societies or Churches, for their mutual Edification, and the due Per<g ref="char:EOLhyphen"/>formance of that Publick Worſhip, which he requireth of them in this World.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="103" facs="tcp:37986:54"/>
+               <head>IV.</head>
+               <p>To each of theſe Churches thus ga<g ref="char:EOLhyphen"/>thered, according unto his Mind decla<g ref="char:EOLhyphen"/>red in his Word, he hath given all that Power and Authority, which is any way needful for their carrying on that Or<g ref="char:EOLhyphen"/>der in Worſhip and Diſcipline, which he hath inſtituted for them to obſerve, with Commands and Rules for the due and right exerting and executing of that Power.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>Theſe particular Churches thus ap<g ref="char:EOLhyphen"/>pointed by the Authority of Chriſt, and intruſted with Power from him for the ends before expreſſed, are each of them as unto thoſe ends, the ſeat of that Power which he is pleaſed to communicate to his Saints or Subjects in this World, ſo that as ſuch they re<g ref="char:EOLhyphen"/>ceive it immediately from himſelf.</p>
+            </div>
+            <div n="6" type="part">
+               <pb n="104" facs="tcp:37986:55"/>
+               <head>VI.</head>
+               <p>Beſides theſe particular Churches, there is not inſtituted by Chriſt any Church more extenſive or Catholick in<g ref="char:EOLhyphen"/>truſted with Power for the Adminiſtra<g ref="char:EOLhyphen"/>tion of his Ordinances, or the Execu<g ref="char:EOLhyphen"/>tion of any Authority in his Name.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>A particular Church gathered and compleated according to the Mind of Chriſt, conſiſts of Officers and Mem<g ref="char:EOLhyphen"/>bers: The Lord Chriſt having given to his called Ones (united according to his Appointment in Church Order) Liberty and Power to chooſe Perſons fitted by the Holy Ghoſt for that pur<g ref="char:EOLhyphen"/>poſe, to be over them, and to Mini<g ref="char:EOLhyphen"/>ſter to them in the Lord.</p>
+            </div>
+            <div n="8" type="part">
+               <pb n="105" facs="tcp:37986:55"/>
+               <head>VIII.</head>
+               <p>The Members of theſe Churches are Saints by Calling, viſibly manifeſting and evidencing (in and by their Pro<g ref="char:EOLhyphen"/>feſſion and Walking) their Obedience unto that Call of Chriſt, who being further known to each other by their confeſſion of the Faith wrought in them by the Power of God, declared by themſelves or otherwiſe manifeſted, do willingly conſent to walk together according to the Appointment of Chriſt, giving up themſelves to the Lord, and to one another by the Will of God in profeſſed Subjection to the Ordinances of the Goſpel.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>The Officers appointed by Chriſt to be choſen and ſet apart by the Church ſo called, and gathered for the peculi<g ref="char:EOLhyphen"/>ar Adminiſtration of Ordinances, and
+<pb n="106" facs="tcp:37986:56"/>Execution of Power or Duty which he intruſts them with, or calls them to, to be continued to the end of the World, are Paſtors, Teachers, Elders and Deacons.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>Churches thus gathered and aſſem<g ref="char:EOLhyphen"/>bling for the Worſhip of God, are thereby viſible and publick, and their Aſſemblies (in what Place ſoever they are, according as they have liberty or opportunity) are therefore Church or Publick Aſſemblies.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>The way appointed by Chriſt for the calling of any Perſon, fitted and gifted by the Holy Ghoſt, unto the Office of Paſtor, Teacher or Elder in a Church, is, that he be choſen thereunto by the common Suffrage of the Church it ſelf, and ſolemnly ſet apart by Faſting and
+<pb n="107" facs="tcp:37986:56"/>Prayer, with Impoſition of Hands of the Elderſhip of that Church, if there be any before conſtituted therein: And of a Deacon, that he be choſen by the like Suffrage, and ſet apart by Prayer, and the like Impoſition of Hands.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>The Eſſence of this Call of a Paſtor, Teacher or Elder unto Office, conſiſts in the Election of the Church, together with his Acceptation of it, and Separa<g ref="char:EOLhyphen"/>tion <hi>by Faſting and Prayer:</hi> And thoſe who are ſo choſen, though not ſet apart by Impoſition of Hands, are rightly conſtituted Miniſters of Jeſus Chriſt, in whoſe Name and Authority they Exerciſe the Miniſtry to them ſo committed. The Calling of Deacons conſiſteth in the like Election and Ac<g ref="char:EOLhyphen"/>ceptation, with Separation <hi>by Prayer.</hi>
+               </p>
+            </div>
+            <div n="13" type="part">
+               <pb n="108" facs="tcp:37986:57"/>
+               <head>XIII.</head>
+               <p>Although it be incumbent on the Paſtors and Teachers of the Churches to be inſtant in Preaching the Word, by way of Office; yet the Work of Prea<g ref="char:EOLhyphen"/>ching the Word is not ſo peculiarly con<g ref="char:EOLhyphen"/>fined to them, but that others alſo gifted and fitted by the Holy Ghoſt for it, and approved (being by lawful ways and means in the Providence of God called thereunto) may publickly, ordinarily and conſtantly perform it; ſo that they give themſelves up thereunto.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>However, they who are engaged in the Work of publick Preaching, and enjoy the publick Maintenance upon that account, are not thereby obliged to diſpenſe the Seals to any other than ſuch as (being Saints by Calling, and
+<pb n="109" facs="tcp:37986:57"/>gathered according to the Order of the Goſpel) they ſtand related to, as Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tors or Teachers; yet ought they not <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o neglect others living within their Parochial Bounds, but beſides their conſtant publick Preaching to them, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey ought to enquire after their profi<g ref="char:EOLhyphen"/>ting by the Word, inſtructing them <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, and preſſing upon them (whether young or old) the great Doctrines of the Goſpel, even perſonally and parti<g ref="char:EOLhyphen"/>cularly, ſo far as their ſtrength and time will admit.</p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>Ordination alone without the Ele<g ref="char:EOLhyphen"/>ction or precedent conſent of the Church, by thoſe who formerly have been Ordained by virtue of that Pow<g ref="char:EOLhyphen"/>er they have received by their Ordina<g ref="char:EOLhyphen"/>tion, doth not conſtitute any Perſon a Church-Officer, or communicate Of<g ref="char:EOLhyphen"/>fice-Power unto him.</p>
+            </div>
+            <div n="16" type="part">
+               <pb n="110" facs="tcp:37986:58"/>
+               <head>XVI.</head>
+               <p>A Church furniſhed with Officers (according to the Mind of Chriſt) hath full Power to adminiſter all his Ordi<g ref="char:EOLhyphen"/>nances; and where there is want of any one or more Officers required, that Officer, or thoſe which are in the Church, may Adminiſter all the Ordi<g ref="char:EOLhyphen"/>nances proper to their particular Duty and Offices; but where there are no Teaching Officers, none may Admini<g ref="char:EOLhyphen"/>ſter the Seals, nor can the Church au<g ref="char:EOLhyphen"/>thorize any ſo to do.</p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <p>In the carrying on of Church Ad<g ref="char:EOLhyphen"/>miniſtrations, no Perſon ought to be added to the Church, but by the con<g ref="char:EOLhyphen"/>ſent of the Church it ſelf; that ſo love (without diſſimulation) may be pre<g ref="char:EOLhyphen"/>ſerved between all the Members thereof.</p>
+            </div>
+            <div n="18" type="part">
+               <pb n="111" facs="tcp:37986:58"/>
+               <head>XVIII.</head>
+               <p>Whereas the Lord Jeſus Chriſt hath appointed and inſtituted as a means of Edification, that thoſe who walk not according to the Rules and Laws ap<g ref="char:EOLhyphen"/>pointed by him (in reſpect of Faith and Life, ſo that juſt offence doth ariſe to the Church thereby) be cenſured in his Name and Authority: Every Church hath Power in it ſelf to exer<g ref="char:EOLhyphen"/>ciſe and execute all thoſe Cenſures ap<g ref="char:EOLhyphen"/>pointed by him in the way and Order preſcribed in the Goſpel.</p>
+            </div>
+            <div n="19" type="part">
+               <head>XIX.</head>
+               <p>The Cenſures ſo appointed by Chriſt, are Admonition and Excommunicati<g ref="char:EOLhyphen"/>on: and whereas ſome Offences are or may be known only to ſome, it is ap<g ref="char:EOLhyphen"/>pointed by Chriſt, that thoſe to whom they are ſo known, do firſt admoniſh
+<pb n="112" facs="tcp:37986:59"/>the Offender in private: in publick Offences where any Sin, before all; or in caſe of non-amendment upon private Admonition, the Offence being rela<g ref="char:EOLhyphen"/>ted to the Church, and the Offender not manifeſting his Repentance, he is to be duely admoniſhed in the Name of Chriſt by the whole Church, by the Miniſtry of the Elders of the Church; and if this Cenſure prevail not for his Repentance, then he is to be caſt out by Excommunication with the conſent of the Church.</p>
+            </div>
+            <div n="20" type="part">
+               <head>XX.</head>
+               <p>As all Believers are bound to joyn themſelves to particular Churches, when and where they have opportunity ſo to do, ſo none are to be admitted un<g ref="char:EOLhyphen"/>to the Privileges of the Churches, who do not ſubmit themſelves to the Rule of Chriſt in the Cenſures for the Go<g ref="char:EOLhyphen"/>vernment of them.</p>
+            </div>
+            <div n="21" type="part">
+               <pb n="113" facs="tcp:37986:59"/>
+               <head>XXI.</head>
+               <p>This being the way preſcribed by Chriſt in caſe of Offence, no Church-Members upon any Offences taken by them, having performed their Duty re<g ref="char:EOLhyphen"/>quired of them in this matter, ought to diſturb any Church-Order, or ab<g ref="char:EOLhyphen"/>ſent themſelves from the Publick Aſ<g ref="char:EOLhyphen"/>ſemblies, or the Adminiſtration of any Ordinances upon that pretence, but to wait upon Chriſt in the further pro<g ref="char:EOLhyphen"/>ceeding of the Church.</p>
+            </div>
+            <div n="22" type="part">
+               <head>XXII.</head>
+               <p>The Power of Cenſures being ſeated by Chriſt in a particular Church, is to be exerciſed only towards particular Members of each Church reſpectively as ſuch; and there is no Power given by him unto any Synods or Eccleſiaſti<g ref="char:EOLhyphen"/>cal Aſſemblies to Excommunicate, or
+<pb n="114" facs="tcp:37986:60"/>by their publick Edicts to threaten Excommunication, or other Church-cenſures againſt Churches, Magiſtrates, or their People upon any account, no Man being obnoxious to that Cenſure, but upon his perſonal Miſcarriage, as a Member of a particular Church.</p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII.</head>
+               <p>Although the Church is a Society of Men, aſſembling for the celebration of the Ordinances according to the ap<g ref="char:EOLhyphen"/>pointment of Chriſt, yet every Society aſſembling for that end or purpoſe, upon the account of Cohabitation within any Civil Precincts and Bounds, is not thereby conſtituted a Church, ſeeing there may be wanting among them, what is eſſentially required there<g ref="char:EOLhyphen"/>unto; and therefore a Believer living with others in ſuch a Precinct, may joyn himſelf with any Church for his Edification.</p>
+            </div>
+            <div n="24" type="part">
+               <pb n="115" facs="tcp:37986:60"/>
+               <head>XXIV.</head>
+               <p>For the avoiding of Differences that may otherwiſe ariſe, for the greater Solemnity in the Celebration of the Ordinances of Chriſt, and the opening a way for the larger uſefulneſs of the Gifts and Graces of the Holy Ghoſt; Saints living in one City or Town, or within ſuch diſtances as that they may conveniently Aſſemble for Divine Wor<g ref="char:EOLhyphen"/>ſhip, ought rather to joyn in one Church for their mutual ſtrengthning and Edification, than to ſet up many diſtinct Societies.</p>
+            </div>
+            <div n="25" type="part">
+               <head>XXV.</head>
+               <p>As all Churches and all the Members of them are bound to pray continually for the Good or Proſperity of all the Churches of Chriſt in all Pla<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, and upon all occaſions to further it: (Eve<g ref="char:EOLhyphen"/>ry
+<pb n="116" facs="tcp:37986:61"/>one within the Bounds of their Pla<g ref="char:EOLhyphen"/>ces and Callings, in the Exerciſe of their Gifts and Graces) So the Church<g ref="char:EOLhyphen"/>es themſelves (when planted by the Providence of God, ſo as they may have opportunity and advantage for it) ought to hold Communion amongſt themſelves for their Peace, increaſe of Love, and mutual Edification.</p>
+            </div>
+            <div n="26" type="part">
+               <head>XXVI.</head>
+               <p>In Caſes of Difficulties or Differen<g ref="char:EOLhyphen"/>ces, either in point of Doctrine or in Adminiſtrations, wherein either the Churches in general are concerned, or or any one Church in their Peace, Uni<g ref="char:EOLhyphen"/>on and Edification, or any Member or Members of any Church are injured in, or by any proceeding in Cenſures, not agreeable to Truth and Order: it is ac<g ref="char:EOLhyphen"/>cording to the Mind of Chriſt, that ma<g ref="char:EOLhyphen"/>ny Churches holding Communion to<g ref="char:EOLhyphen"/>gether, do by their Meſſengers meet in
+<pb n="117" facs="tcp:37986:61"/>a Synod or Counſel, to conſider and give their advice in, or about that mat<g ref="char:EOLhyphen"/>ter in difference, to be reported to all the Churches concerned; Howbeit theſe Synods ſo aſſembled are not intruſted with any Church Power, properly ſo called, or with any Juriſdiction over the Churches themſelves, to exerciſe any Cenſures, either over any Churches or Perſons, or to impoſe their Determi<g ref="char:EOLhyphen"/>nations on the Churches or Officers.</p>
+            </div>
+            <div n="27" type="part">
+               <head>XXVII.</head>
+               <p>Beſides theſe occaſional Synods or Counſels, there are not inſtituted by Chriſt any ſtated Synods in a fixed Combination of Churches, or their Of<g ref="char:EOLhyphen"/>ficers in leſſer or greater Aſſemblies; nor are there any Synods appointed by Chriſt in a way of Subordination to one another.</p>
+            </div>
+            <div n="28" type="part">
+               <pb n="118" facs="tcp:37986:62"/>
+               <head>XXVIII.</head>
+               <p>Perſons that are joyned in Church-Fellowſhip, ought not lightly or with<g ref="char:EOLhyphen"/>out juſt cauſe to withdraw themſelves from the Communion of the Church whereunto they are ſo joyned: Never<g ref="char:EOLhyphen"/>theleſs, where any Perſon cannot con<g ref="char:EOLhyphen"/>tinue in any Church without his Sin, either for want of the Adminiſtration of any Ordinances inſtituted by Chriſt, or by his being deprived of his due Privileges, or compelled to any thing in practice not warranted by the Word, or in caſe of Perſecution, or upon the account of conveniency of Habitation; he conſulting with the Church, or the Officer or Officers thereof, may peace<g ref="char:EOLhyphen"/>ably depart from the Communion of the Church, wherewith he hath ſo walked, to joyn himſelf with ſome other Church, where he may enjoy the Ordinances in the Purity of the ſame, for his Edifica<g ref="char:EOLhyphen"/>tion and Conſolation.</p>
+            </div>
+            <div n="29" type="part">
+               <pb n="119" facs="tcp:37986:62"/>
+               <head>XXIX.</head>
+               <p>Such Reforming Churches as conſiſt of Perſons found in the Faith and of Converſation becomming the Goſpel, ought not to refuſe the Communion of each other, ſo far as may conſiſt with their own Principles reſpectively, though they walk not in all things ac<g ref="char:EOLhyphen"/>cording to the ſame Rules of Church-Order.</p>
+            </div>
+            <div n="30" type="part">
+               <head>XXX.</head>
+               <p>Churches gathered and walking ac<g ref="char:EOLhyphen"/>cording to the Mind of Chriſt, judging other Churches (though leſs pure) to be true Churches, may receive unto occaſional Communion with them, ſuch Members of thoſe Churches as are cre<g ref="char:EOLhyphen"/>dibly teſtified to be Godly, and to live without Offence.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
